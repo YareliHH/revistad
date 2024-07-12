@@ -1,10 +1,9 @@
 export const articulos = [
     {
-
         titulo: " Suelos de las Islas Chafarinas y sus relaciones ecológicas.",
-        autor: "Adriana Guzmán",
-        descripcion: " El giro epistemológico iniciado a mediados del siglo XX ha impulsado estudios sobre la presencia, que ha sido entendida de diversas maneras, una de ellas es la presencia del cuerpo en los procesos cognitivos.",
-        img: "https://www.comecso.com/wp-content/uploads/2020/06/portada-1-1-788x1024.jpg",
+        autor: "L.V. García",
+        descripcion: " Desde hace tiempo han merecido la atención de los naturalistas por albergar especies amenazadas como la foca monje (Monachus monachus) o la gaviota de Audouin (Larus audouinii). Sin embargo, hasta mediados de los años 90, el medio físico terrestre de las islas había sido objeto de escasa atención",
+        img: "https://media.istockphoto.com/id/1487037362/es/foto/hierba.jpg?s=1024x1024&w=is&k=20&c=zv71YW-L6oiu8jjpGscQkqsQLwOo9Oo0AvH2dOKotFY=",
         url: "https://rua.ua.es/dspace/bitstream/10045/7907/1/ECO_14%283%29_16.pdf",
         
         parrafo1: `El giro epistemológico iniciado a mediados del siglo XX ha impulsado estudios sobre la presencia, que ha sido entendida de diversas maneras, una de ellas es la presencia del cuerpo en los procesos cognitivos. Sin pretender agotar el tema, ni suponer que es la única posibilidad de abordarlo, el objetivo del presente texto es reflexionar al respecto a partir de la obra de Jean Chateau, vista a la luz de los aportes de Mark Johnson, para observar la profundidad de lo que implica apelar a la presencia del cuerpo, así como apuntes que se encaminan a la comprensión de lo estético desde esta perspectiva, tópico no trabajado del todo aún.`,
@@ -13,25 +12,15 @@ export const articulos = [
         e incluso la mano, entre el cuerpo y el objeto” (Chateau, 1976: 104). Aparece así, en el interior del organismo, un espacio abierto, por mínimo que sea, entre el punto de apoyo y el punto de aplicación; espacio que resulta mediador entre los dos anclajes existenciales que separa y aparta. Entre el punto de apoyo y el punto de aplicación aparecerá, entonces, una posibilidad de vacío.
         una especie de separación de dos resistencias, como un agujero que surgiera en el mundo. Entre dos realidades existenciales parece que se hubiera excavado un vacío. Pero de ninguna manera se trata de un agujero de la nada que se instalara en el corazón de la existencia: eso no es cierto más que en la perspectiva de las cosas inhumanas, de las cosas inertes que pesan únicamente por su existencia. Es en el interior de esas cosas donde se crea un vacío [lo que provoca que] Por un lado se produzca un reacomodo del orden de las cosas, una transformación de su estructura, y esa transformación testimonia una marca dejada sobre esas cosas, una toma de posesión. Por otra parte, el vacío aparente es en realidad un lleno de fuerza, un lleno de acto. De ese agujero en la existencia va a aparecer el instrumento de rodeo, después el instrumento mental de las operaciones; allí es donde tendrá lugar, por una actividad de otra clase [una proyección metafórica], una actividad funcional que ya no estará sostenida por el peso del punto de aplicación y del punto de apoyo. Es ahí donde se desarrolla el germen del pensamiento futuro [Chateau, 1976: 48].
         Este juego así creado entre los anclajes del acto, puede verse también como un horizonte y, al considerar el horizonte entre los componentes de la percepción espacial, el humano, que tiene una gran capacidad para el rodeo, muestra con claridad que el fondo no se encuentra completamente separado de la figura. Se puede, pues, considerar que la intervención de la inteligencia “consiste en hacer entrar en el problema los datos del horizonte” (Chateau, 1976: 81).
-        
         Los primeros brotes de la inteligencia técnica se dan con la conducta de rodeo, cuyo carácter esencial es que exige que la atención abandone el objeto para fijarse en un intermediario, en un medio. Esto ya conlleva cierta emotividad, pues sería difícil pensar en el rodeo sin cierta serenidad; cuando se está ante una situación apremiante en extremo suele haber una aproximación directa al objeto o un quedarse paralizado; así, el rodeo, es decir la aparición de un medio o intermediario, siempre implica cierta serenidad y un horizonte. “Para que aparezca el rodeo, es necesario que la atención esté ya algo difundida, que se lleve al lado del objeto al mismo tiempo que sobre el objeto: por eso es que una conducta tal supone el ensanchamiento del campo de consciencia, unido a una disminu ción de la tensión afectiva” (Chateau, 1976: 80).
-        
-
-
         Ahora bien, para entender a cabalidad la actitud de intermediación o de rodeo debe tomarse en cuenta la postura sedente -a la que suele dedicársele poca atención- pues tal postura abre el campo al análisis y a la manipulación de un objeto bajo la vigilancia de la mirada, análisis que será mucho más minucioso mientras más diestra sea la mano. Por la manipulación aparece -al mismo tiempo que un instrumento técnico especializado- una especie de nuevo mundo, el contenido en las palmas de las manos: es una especie de ámbito privilegiado, a la vez recipiente y nido de la realidad “Este ámbito no está ya ligado a la situación ambiente; hay en él un nido que vale por sí mismo, que llama la atención sobre un punto particular, que determina el psiquismo todo, ofreciéndole una reali dad no impuesta, sino cogida y escogida […] En ese nido de realidades se esbozan ya elementos esenciales del desarrollo técnico y psíquico (Chateau, 1976: 63).
-        
         Entonces, también es de consideración la estructura de la mano que es dual, a la vez sierva y señora, heterónoma o autónoma según la ocasión. Prolonga el brazo y, por el brazo, el cuerpo entero. A veces se endurece como puño o se extiende en palma aplicada ampliamente sobre el objeto, o se contrae como pinza. La mano golpea, empuja o prensa, lo cual la vincula con otros desarrollos que ya han sido planteados, por ejemplo con respecto a la conducta de rodeo, la mano en sí puede ser un rodeo, pues resulta intermediaria para el consumo de alimentos. De igual modo se observa que el hueco de la mano abre toda una posibilidad a la inteligencia, pues ella puede contener un objeto y es así el modelo privilegiado para todo contenedor; pero no sólo puede sostenerlo, sino que gracias al dedo pulgar puede manipularlo, lo que posibilita el análisis, o bien transformarlo, lo que abre el campo a la síntesis “La mano esboza el poder de limitar o disgre gar una estructura; y en ello se expresa también una implícita afirmación de sí” (Chateau, 1976: 88). Por consiguiente, se considera entonces que es la conducta del hueco de la mano, que implica análisis y síntesis donde “La forma de síntesis más importante es la que consiste en prolongar la mano por un útil […] Por estas aptitudes, la mano representa el instrumento privilegiado de la inteligencia sensorio-motriz o concreta” (Chateau, 1976: 89).
         Se tiene, por tanto, que a partir de la postura erguida -que conlleva la marcha bípeda- se da un desarrollo de la bipolarización que supone una especialización, por un lado de la parte inferior para la marcha y de la superior para el campo técnico, gracias al doble desarrollo de la mano y el rostro en estrecha vincu lación. El rostro, el gesto entero, se torna fundamental para la comunicación. La estructura de la mano: que es puño y golpea; que es palma y contenedor, lo que se extiende al análisis; que es pinza y sostiene, lo que abre la posibilidad de la transformación y la síntesis que, junto con la conducta de rodeo -que también se da en la marcha- lleva a la utilización de herramientas. Como resulta claro, todo este desarrollo no ha sido únicamente cuestión de biología,
         No puede negarse, en efecto, que el utensilio es fabricado según una técnica […]; ahora bien, esa fabricación no implica solamente un gesto técnico, del cual el animal tal vez fuera capaz, incluso no implica solamente una tradición de la que podríamos preguntarnos si el animal superior no sería capaz […] sino que supone además y sobre todo, una cierta previsión en el tiempo. Si el útil fabricado se conserva, es porque a ese útil se le ha adjudicado un cierto número de significaciones: ya no es un sílex cualquiera, es un sílex hecho para [Chateau, 1976: 91].
 
         Al útil fabricado le corresponde un verdadero concepto de utilización por el cual su eficacia es significada; la utilización requiere un instructivo de empleo, el cual es, precisamente, el concepto, el cual no puede ser único y homogéneo, sino de una estructura que se refiere a la vez a la fabricación y la utilización en ocasiones diversas; es decir, en este caso hay que apelar a una verdadera sintaxis. Con el concepto técnico que genera este tipo particular de sintaxis se tiene la capacidad de separarse de la situación -prever algo para, guardarlo para uso posterior- y con ello dar cabida al surgimiento de lo que se ha llamado representación. Punto nodal de la cualidad sígnica del sapiens es, entonces, la representación -algo que está en lugar de otra cosa- que tiene la capacidad de separarse de la situación. El concepto técnico posibilita el surgimiento de,
         por una parte un significado material o gesticular; por otra, un significante, una imitación gesticular [que] es la primera forma de concepto mental.[…]
-        
         La materia de la inteligencia […] sobrepasa lo biológico […] en el sentido en que ya no se encuentra ligada a la situación, sino que implica un concepto transferible y la intención de utilizar de nuevo el utensilio en el porvenir, conforme a ese concepto. El problema planteado aquí es, en el fondo, el del nacimiento de la inteligencia representativa humana [Chateau, 1976: 92].Inteligencia que se desprende, y cada vez más, del gesto útil o práctico, con lo que vuelve a aparecer la importancia de la actitud de rodeo. Aquí se introdu -ce el problema del lenguaje, pues es la separación de la situación o bien la aparición del signo como algo que está en lugar de otra cosa, es decir, otra forma de intermediación o de rodeo.
-        
-        
-        
-        
         Lo característico del lenguaje es, por una parte, que desprende al significante de la situación y por ello le da una ligereza que se presta a estructuraciones, a combinaciones mentales, que constituyen una función fluida […] y por otra parte su carácter social. Menos urgido de un anclaje existencial que el gesto práctico, el lenguaje asegura por ello una comunicación fácil entre los hombres, gracias a estructuras psíquicas articuladas [Chateau, 1976: 94].
         La aparición del lenguaje, entonces, no está prendada de la situación inmediata, del gesto práctico, sino que es mucho más probable que esté relacionada con la transmisión de los saberes obtenidos por esos gestos, asegurando la transmisión diferida de los símbolos de la acción, con lo que adquiere un carácter eminentemente social, por lo que se requiere primero de la aparición del gesto representativo, un lenguaje
         gesticular elemental, el que dibuja los conceptos en conductas motrices, esbozos de actividades reales. Y tal lenguaje gesticular es difícilmente concebible sin emisiones sonoras que constituyan un boceto sonoro y un ritmo. No hay pues por qué apelar a dos clases de lenguaje, sino a un lenguaje gesticular y sonoro en el cual el polo significativo estará al principio más bien del lado del gesto que del lado del sonido. La transición del lenguaje principalmente gesticular al lenguaje principalmente vocal es insensible: siempre la voz ha acompañado al gesto representativo, y la tentación del gesto permanece detrás de los razonamientos más sutiles. Al principio, es el gesto representativo el que manda a la voz […] A medida que la materia cerebral tomará el cerrojo frontal en regresión, tenderá a tomar la primacía sobre los signos gesticulares, pero la conexión se conservará estrecha [Chateau, 1976: 96].
@@ -42,501 +31,141 @@ export const articulos = [
         El pensamiento de la muerte, la palabra de vida, el lenguaje de afecto, en tanto que lenguajes, son supraindividuales, mediadores, pero su mediación, su voluta alejada y envolvente, se encastra y enraiza en el magma inmediato, no articulado, oscuro, de la experiencia muda y ciega […] El vuelo y el rodeo […] se entrevé en su centro, cuando aún no ha concluido la melodía pensante, la irradiación enhiesta, siempre huidiza, fugitiva, de la caliente, sorda inmediatez[…]  
         Esa presencia ineludible, y el fulgor peligroso, tentador e inquietante, de la cosa inmediata, fruta prohibida y entrevista por las cancelas de la mediación, empujan a las luces deslumbrantes del arte [Ballestero, 1985: 25-26]. Pero cuando Chateau dice el arte más elemental en realidad está hablando de acciones y sentimientos profundos y viscerales, lo que, recuperando ahora los últimos planteamientos de Johnson (2008), se re fiere, en el fondo, a la estética:
         Mi trabajo durante las últimas tres décadas se ha centrado principalmente en las fuentes corporales de significado, imaginación y razonamiento. Me basé en la fenomenología, la lingüística y las ciencias cognitivas emergentes para explicar cómo aspectos de nuestra experiencia corporal dan lugar a nuestra conceptualización y razonamiento. Sin embargo, me he dado cuenta de que, aunque entonces consideré que estos esfuerzos anteriores revelaban el corazón mismo de la creación de significado humano, no había captado las fuentes corporales más profundas del significado. En retrospectiva, ahora veo que los aspectos estructurales de nuestras interacciones corporales con nuestro entorno en el que me estaba enfocando dependían ellos mismos de dimensiones aún más sumergidas de comprensión corporal. Fue un paso importante investigar a continuación conceptos, proposiciones y oraciones sobre los procesos sensomotores mediante los cuales entendemos nuestro mundo, pero lo que ahora se necesita es una exploración mucho más profunda de las cualidades, sentimientos, emociones y procesos corporales que hacen posible el significado.
-       
-       
-
-
         Una vez que di el salto a estos orígenes profundos y viscerales del significado, pronto me di cuenta de que estaba tratando con aspectos de la experiencia tradicionalmente considerados dentro del ámbito de la estética. Si esto fuera cierto, entonces la estética no debe inter pretarse estrictamente como el estudio del arte y la llamada experiencia estética. En cambio, la estética se convierte en el estudio de todo lo que entra en la capacidad humana de crear y experimentar significado. 
-        
         Esto implica que una estética de la comprensión humana debería convertirse en la base de toda la filosofía, incluida la metafísica, la teoría del conocimiento, la lógica, la filosofía de la mente y el lenguaje y la teoría de los valores[…]
-
         la estética debe convertirse en la base de cualquier comprensión profunda del significado y el pensamiento. La estética es propiamente una investigación de todo lo que se relaciona con la creación de significado humano, y su enfoque tradicional en las artes se deriva principalmente del hecho de que las artes son casos ejemplares de significado consumado. Sin embargo, cualquier estética adecuada de la cognición debe ir mucho más allá de las artes para explorar cómo el significado es posible para criaturas con nuestros tipos de cuerpos, entornos e insti tuciones y prácticas culturales [Johnson, 2008: 6-7]. 12
         Con esta propuesta se abre todo un expediente de investigaciones, por un lado de denuncia por el “robo” por parte del arte del universo de la estética y, por otro, de lo que bien puede pensarse como el cuerpo en cuanto engendramiento de lo estético, ambos tópicos dignos de detallada revisión, que habrá de realizarse en otro momento, pero que ya enuncian enriquecedoras maneras para seguir reflexionando en torno a la inagotable y profunda presencia del cuerpo.
                 
         Fuentes
-
          Ballestero, Manuel 1985. El devenir y la apariencia, Anthropos, Barcelona, 133 pp.
-         Chateau, Jean 1976. Las fuentes de lo imaginario, Fondo de Cultura Económica, Madrid, 348 pp. [1972].
-         Guzmán, Adriana 2017. “El don. Reconsideraciones sobre la mimesis”, en Adriana Guzmán, Rodrigo Díaz Cruz y Anne Johnson, Dilemas de la representación: presencias, performance, poder, Universidad Autónoma Metropolitana/Instituto Nacional de Antropología e Historia/Juan Pablos Editor, Ciudad de México, pp. 125-167.
-         Johnson, Mark 1991. El cuerpo en la mente, Debate, Madrid, 314 pp. [1987].
-         Johnson, Mark 2008. The Meaning of the Body. Aesthetics of Human Understanding, Universityof Chicago Press, Chicago, 222 pp.
-         Kogan, Jacobo 1982. Filosofía de la imaginación. Función de la imaginación en el arte, la religión y la filosofía, Paidós, Buenos Aires, 270 pp.
-         Lakoff, George y Mark Johnson 2009. Metáforas de la vida cotidiana, Cátedra, Madrid, 286 pp. [1986].
-         Leroi-Gourhan, André 1971. El gesto y la palabra, Universidad Central de Venezuela, Caracas, 398 pp.
-         Sanfélix Vidarte, Vicente 2007. “Percepción”, en Fernando Broncano (ed.), La mente humana, Trotta, Madrid, pp. 333-351.
-
-        Notas:
-
-        1._ Desde mediados del siglo XX, autores como Jacques Derrida, Gilles Deleuze o Jean-Luc Nancy, recuperando de distintos modos el pensamiento de Martin Heidegger, han reformulado la comprensión de lo que se entiende por presencia, que ha ido de la mano de una crítica al predominio de la metafísica y la representación en el pensamiento de Occidente. An clados en este giro epistemológico, autores como Hans Ulrich Gumbrecht, Alois Maria Haas, Cormac Power, Ranjan Ghosh, Ethan Kleinberg o Alva Noë, por mencionar algunos, han hecho de la presencia un objeto de estudio o una lente teórica. Quizá una de las manifestaciones más contundentes es la explosión y expansión de una forma completamente contemporánea del arte, el llamado performance art, que, dentro de su gran variedad, confluye en la presencia del cuerpo.
-
-        2._ Psicopedagogo francés. Desde 1962 impulsa la creación de la carrera de pedagogía con bases científicas, separada de la psicología y de la filosofía. En 1967 ocupa la primera cátedra de Ciencias de la Educación en la Universidad de Bordeaux, Francia. Sus publicaciones se centran en la revisión histórica y actualización de propuestas psicopedagógicas, como las que aparecen en sus libros Psicología de la educación (1970); Las grandes psicologías de la Antigüedad (1978); Los grandes pedagogos (1974); Las grandes psicologías modernas. De los tiempos de filósofos a los tiempos de científicos (1977) y en psicología infantil, en sus libros Lo real y lo imaginario en el juego de niños (1946); El niño y el juego (1950) o lo que en su momento se llamó psicología general, pero que hoy en día es parte de propuestas enmarcadas dentro de las ciencias cognitivas, como Las fuentes de lo imaginario (1972).
-
-        
-        
-        3._ Neurocientífico británico. Profesor en el Departamento de Filosofía de la Universidad de Oregon, Estados Unidos. Reconocido por sus contribuciones a la filosofía encarnada y a la ciencia y la lingüística cognitiva. Algunas de sus publicaciones son Perspectivas filosóficas sobre la metáfora (1981); El cuerpo en la mente: la base corporal del significado, la imaginación y la razón (1987); El significado del cuerpo: estética del entendimiento humano (2007) y, en coautoría con George Lakoff, Filosofía en la carne: la mente encarnada y su desafío al pensamiento occidental (1999) y Metáforas por las que vivimos (2003).
-
-        4._ “Tradición asociacionista que pasa por Stuart Mill en el XIX y se remonta hasta Hume y Berkeley en los siglos anteriores a éste, tuvo su apogeo en el primer tercio de nuestro siglo y suele asociarse con las posiciones defendidas en algunos de sus escritos por Moore y Russell, Price o Ayer. Quizá quepa también calificar de fenomenistas algunas de las tesis de Husserl, si bien, inspirándose en sus últimos puntos de vista, Merleau-Ponty desarrolló una severa crítica del fenomenismo. Creo que pocos autores defenderían hoy el fenomenismo, aunque algunos, como Dicker, lo vindican parcialmente” (Sanfélix Vidarte, 2007: 334).
-
-        5._ Algunos autores que pueden situarse en esta posición son: Wittgenstein, Ryle, Austin, Quinton, Armstrong y Pitcher (Sanfélix Vidarte, 2007: 337).
-
-        6._ Las líneas maestras de esta posición están dadas por autores como Grice, Goldman, Mackie y Jackson (Sanfélix Vidarte, 2007: 341).
-
-        7._ Autores de esta postura son: Gregory, Rock, Marr, Fodor, Dretske y Gibson (Sanfélix Vidarte, 2007: 345).
-
-        8._ Las proyecciones metafóricas incluyen a las metonímicas “la metonimia ejerce algunas de las funciones que desempeña la metáfora y, de alguna forma, en una manera similar, pero nos permite centrarnos más específicamente en algunos aspectos de aquello a lo que se refiere. Es también como la metáfora, en el sentido de que no se trata simplemente de un procedimiento retórico o poético. Ni se trata simplemente de una cuestión de lenguaje. Los conceptos metonímicos (como el de LA PARTE POR EL TODO) son parte de la forma ordinaria y cotidiana en que pensamos y actuamos, tanto como de la forma en que hablamos [...] 
-        Así que la metonimia LA PARTE POR EL TODO no es solamente una cosa del lenguaje. En nuestra cultura miramos a la cara de las personas -más que su postura o movimientos- para obtener la información básica sobre cómo son esas personas. Funcionamos en términos de metonimia cuando percibimos a la persona en términos de su cara y actuamos sobre esas percepciones. Como las metáforas, las metonimias no son acontecimientos fortuitos o arbitrarios que deban ser tratados como ejemplos aislados. Los conceptos metonímicos son también sistemáticos” (Lakoff y Johnson, 2009 [1986]: 75). “La metáfora y la metonimia son tipos de procesos diferentes. La metáfora es principalmente una manera de concebir una cosa en términos de otra, y su función primaria es la comprensión. La metonimia, por otra parte, tiene primariamente una función referencial, es decir, nos permite utilizar una entidad por otra. Pero la metonimia no es meramente un procedimiento referencial. También desempeña la función de proporcionarnos comprensión” (Lakoff y Johnson, 2009: 74). “Los conceptos metonímicos nos permiten conceptualizar una cosa en virtud de su relación con otra [...] Así pues, como las metáforas, los conceptos metonímicos estructuran no meramente nuestro lenguaje, sino también nuestros pensamientos, actitudes y acciones. Y, como los conceptos metafóricos, los metonímicos se fundan en nuestra experiencia. En realidad, la base de los conceptos metonímicos es en general más obvia que en el caso de los conceptos metafóricos ya que suelen conllevar asociaciones directas físicas o causales. La metonimia LA PARTE POR EL TODO, por ejemplo, surge de nuestra experiencia, de la manera en que las partes en general se relacionan con los todos. EL PRODUCTOR POR EL PRODUCTO se basa en la relación causal (y característicamente física) entre un productor y su producto. EL LUGAR POR EL ACONTECIMIENTO se basa en nuestra experiencia con la localización física de acontecimientos. Y así sucesivamente” (Lakoff y Johnson, 2009: 78).
-
-        9._ Esta capacidad de conocimiento metafórico es posible por las formas en las que se procesa la experiencia corpórea y que está en la base del significado, la comprensión y la razón; lo es también del aprendizaje a través de metáforas, mismas que deben ser entendidas como no proposicionales, tales como “el cuerpo es una máquina”, lo que determina cierto tipo de experiencia del cuerpo y de tratamientos del mismo. Esto es lo que hace posible sostener que el cuerpo es una construcción cultural en la que también entra en juego lo que de él se piense y se diga, ya que será un conocimiento asimilado por el cuerpo mismo, introyectado en la carne, encarnado.
-
-        
-        
-        
-        
-        
-        10._ La metáfora es tratada por Aristóteles sobre todo en la Poética y la Retórica, pues le atribuye, precisamente, dos funciones: una poética y una retórica. Dentro de la función poética de la metáfora desarrolla sus planteamientos sobre la mimesis.
-
-        11._ Un desarrollo detallado sobre la mimesis se encuentra en Guzmán, 2017.`, 
-                
-        
-
+         Chateau, Jean 1976. Las fuentes de lo imaginario, Fondo de Cultura Económica, Madrid, 348 pp. [1972].`, 
     },
     {
         titulo: " Emisión de ceniza volcánica y sus efectos",
-        autor: "María del Carmen Suárez Millán",
-        descripcion: "  Las revisiones sistemáticas (RS) son investigaciones científicas en las que se pretende dar respuesta a una pregunta de investigación claramente formulada mediante un proceso sistemático.",
-        img: "https://revistas.unc.edu.ar/public/journals/109/cover_issue_2256_es_ES.jpg",
+        autor: "A. Rivera-Tapia, A. Yañez-Santos, L. Cedillo-Ramirez",
+        descripcion: " La actividad volcánica es una fuente natural de contaminación, la cual aporta una cantidad considerable de contaminantes, principalmente a la atmósfera. Se ha documentado que dicha actividad representa riesgos para los ecosistemas y las poblaciones humanas que se ubican cerca de los edificios volcánicos, no obstante se ha descrito que incluso organismos que se localizan a distancias considerables de las zonas con actividad volcánica también pueden verse afectados",
+        img: "https://media.istockphoto.com/id/484705274/es/foto/vulcan-de-lava.jpg?s=1024x1024&w=is&k=20&c=MWzEL2IMWMQ3yTTlhBx56KBRkAHGRATD5LXPhKxsCAw=",
         url: "https://rua.ua.es/dspace/bitstream/10045/7903/1/ECO_14(3)_13.pdf",
        
         parrafo1: `En este caso esta enfocado a demostrar aspectos importantes de la relación teoría-práctica aportados en el proceso formativo en estudiantes de áreas de biología y química de Colombia. De esta manera, a través de una metodología sistemática y cualitativa, se busca realizar una comparación constructiva de diferentes investigaciones reportadas en la literatura, con el fin de demostrar la relación entre el saber disciplinar (teoría) y la praxis (práctica), que se pueden evidenciar a través de investigaciones publicadas por diferentes instituciones del país, demostrando la relación teoría-práctica como una unión sinérgica e indisoluble. Esto permitió concluir que, independiente del área de biología o química en el que se encuentre, siempre va existir una relación entre la teoría y la práctica, donde el sujeto interrelacione ambos componentes, cuando se establece dicha conexión se podrá afirmar que los procesos teóricos ayudan a fundamentar los diferentes procesos prácticos que se pueden encontrar en nuestro diario vivir, además, esa estrecha relación es lo que complementa la formación no solo de estudiantes de la Licenciatura en Biología y Química, sino que también en estudiantes que se dedican al estudio y desarrollo de investigaciones en dichas áreas.  `,
         parrafo2: `Actualmente existe una explosión de información, más de dos millones de artículos son publicados anualmente, en más de 20.000 revistas. Ante este volumen inmanejable de información, los investigadores preferimos resúmenes no sesgados de investigaciones originales (fuentes primarias) (González et al., 2011). De esta manera, dentro de los estudios por revisión de publicaciones se conocen dos tipos diferentes: la revisión sistemática y la revisión no sistemática o revisión narrativa (update). El método tradicional de integración en la literatura ha sido la revisión narrativa, pero tiene dos debilidades básicas (González et al., 2011). 
         Las revisiones sistemáticas (RS) son investigaciones científicas en las cuales la unidad de análisis son los estudios primarios; de esta manera, constituyen una herramienta esencial para sintetizar la información científica disponible (González 2011). Las RS pueden ser de tres tipos diferentes: cualitativa, cuantitativa y mixta. Las revisiones de tipo cualitativo son las que resumen la información pero no hacen un análisis matemático de los resultados, prima la subjetividad del autor y no hay manera de comprobar, interpretar 
         o aplicar lo reportado en el estudio; las revisiones de tipo cuantitativo son las que presentan un análisis matemático (estadístico) para combinar los resultados de dos o más estudios y se conoce como metaanálisis; las revisiones de tipo mixto son los que realizan protocolos en forma de revisión sistemática pero que además, amplían los resultados con un metaanálisis.
-        
         La RS son investigaciones científicas que analizan estudios primarios, sintetizan información, incrementan la validez de las conclusiones e identifican áreas de incertidumbre donde debe hacerse investigación, es una recopilación de información en la que los artículos son los individuos de estudio, es decir, en el análisis, la cantidad total de artículos es el tamaño de la muestra (FerreiraGonzález et al., 2011) A diferencia de 
         Sobrido y Rumbo (2018), que establecen la RS como un tipo especial de documento científico, en el cual, se pretende resumir el estado actual de la investigación frente a una determinada temática en particular, siendo un proceso sistemático riguroso y reproducible, que toma como base los resultados de gran variedad de investigaciones primarias reportadas sobre dicha temática.
         Revisión narrativa (RN) Las revisiones bibliográficas narrativas proporcionan un examen de literatura reciente, nacen con el fin de ofrecer una comprensión más profunda de un fenómeno, consolidar el conocimiento existente e identificar carencias (González et al., 2011). También es considerada como una síntesis de literatura sobre un tema, en la que se utilizan métodos informales para seleccionar e interpretar la información. En la RN no aparece claramente especificada la metodología o, si aparece, esta suele ser difusa (González et al., 2011).
-        
         Metaanálisis (MA) El metaanálisis proviene del griego meta (después de) y análisis (descripción o interpretación); por ende, consiste en el análisis estadístico de la recolección de resultados extraídos desde estudios primarios o individuales, con el propósito de integrar los hallazgos obtenidos (Pérez, 2010). Tiene dos etapas. La primera consiste en calcular las medidas de efecto para cada estudio y su intervalo de confianza (Pérez, 2010). La segunda es calcular el efecto global, resumen o combinado de la intervención como una medida ponderada de los efectos obtenidos en los estudios individuales (Pérez, 2010).
-
-        
-
         El objetivo del MA es la integración de los estudios y la posterior obtención de información global de los resultados aportados por cada uno de ellos. El metaanálisis es una metodología para la revisión sistemática y cuantitativa de la investigación, ampliamente consolidada y aplicada en las ciencias en general y aún más en el área de la salud; de esta forma, con esta metodología se ofrece las técnicas necesarias para acumular rigurosa y eficientemente los resultados cuantitativos de los estudios empíricos sobre un mismo problema, permitiendo a los profesionales la determinación de decisiones informadas en sus respectivas áreas de trabajo (Marín-Martínez et al., 2009).
-        
         Relación entre la teoría y la práctica Es uno de los temas más relevantes y recurrentes en el campo de la didáctica porque es tan amplio, complejo y difuso que es imposible darle una respuesta definitiva; aquellos que se han dedicado a la enseñanza, han planteado en mayor o menor medida, cómo conectar mejor su saber con la práctica y llevarlo al mundo contemporáneo (Álvarez y Hevia, 2014). La teoría tiene que ver con la elaboración sistemática de conocimiento pedagógico, y algunos términos habituales para referirse a este concepto son los de: conocimiento, ciencia o investigación; a su vez, constituye un conjunto de leyes, enunciados e hipótesis que configuran el conocimiento científico, sistematizado y organizado (Álvarez y Hevia, 2014).La práctica, por su parte, se concibe como “el cuerpo a cuerpo” del trabajo cotidiano del profesorado en los diferentes niveles de los centros educativos, sobre todo en las aulas, pero también fuera de ellas (Álvarez, 2012). 
         Estaría constituida por el repertorio de comportamientos, acciones, actitudes y valores manifestados por los docentes en su centro de trabajo; para referirse a la práctica suelen emplearse términos como praxis, acción o enseñanza (Álvarez y Hevia, 2014).
-        
         Importancia de la revisión sistemática en la relación teoría-práctica:
-        
         Siempre ha existido una gran diferencia entre los procesos abordados desde la teoría y los resultados que se obtienen cuando el mismo proceso se realiza de forma práctica. La teoría parte de un fundamento científico que toma en cuenta todas las posibles finalidades que podría presentar algo en cuestión y aborda los temas de una manera completa, la práctica como tal, es la aplicación de esa teoría, enfrentar y contrastar con la realidad lo que se ha documentado con anterioridad (Álvarez y Hevia, 2014).
-        Por ende, la implementación de la RS en un proceso teórico-práctico en la formación de docentes en Colombia y especialmente los relacionados con biología y química, pretende poner a prueba la mayoría de información científica posible en diferentes momentos del docente, aplicar proyectos de aula, proyectos de investigación a nivel institucional, proyectos de grados o cualquier tipo de investigación científica, para la cual sea necesaria la recolección de información (Álvarez y Hevia, 2014). De esta manera, es importante hacer una comparación entre la literatura reportada con la realidad, para poder realizar una RS que permita recolectar la mayor cantidad de evidencias, analizarlas y con base en esto, tomar decisiones decisión frente a la influencia generada por la interacción entre la teoría y la práctica en las áreas de conocimiento de biología y química en Colombia.
-        `,
-        
+        Por ende, la implementación de la RS en un proceso teórico-práctico en la formación de docentes en Colombia y especialmente los relacionados con biología y química, pretende poner a prueba la mayoría de información científica posible en diferentes momentos del docente, aplicar proyectos de aula, proyectos de investigación a nivel institucional, proyectos de grados o cualquier tipo de investigación científica, para la cual sea necesaria la recolección de información (Álvarez y Hevia, 2014). De esta manera, es importante hacer una comparación entre la literatura reportada con la realidad, para poder realizar una RS que permita recolectar la mayor cantidad de evidencias, analizarlas y con base en esto, tomar decisiones decisión frente a la influencia generada por la interacción entre la teoría y la práctica en las áreas de conocimiento de biología y química en Colombia.`,    
         parrafo3: ` Metodologia:
-
         Los métodos de investigación cualitativa son actualmente herramientas fundamentales y complementarias en todas las disciplinas de las Ciencias Sociales para enriquecer el trabajo Multi, Inter y Transdisciplinar, como es el caso de los estudios para el desarrollo, donde confluyen diversas áreas del conocimiento. La investigación cualitativa privilegia la subjetividad de las y la intersubjetividad dentro de los contextos, la cotidianidad y la dinámica de interacción entre estos elementos como objeto de estudio.
-
         De esta forma, a partir de esta revisión sistemática se pretende contestar a una pregunta de investigación claramente formulada mediante un proceso sistemático, para este caso es: ¿de qué manera la revisión sistemática aplicada en la teoría - práctica aporta en el proceso formativo en estudiantes de biología y química en Colombia?; en donde, a través de una búsqueda exhaustiva en diferentes bases de datos, se encuentre gran variedad de artículos de investigación dentro de la población de interés, por ende, ayudando así a dar solución a la pregunta de investigación establecida y comparando la información reportada por otros investigadores.
         Una vez realizada la revisión sistemática, se procede a extraer la información de los artículos de interés, para establecer una comparación entre estos; teniendo en cuenta los intereses, las intencionalidades y los conocimientos que les permitirán a los estudiantes en formación comprender la relación entre la teoría y la práctica en la enseñanza de áreas de biología y química en escenarios reales y cotidianos en donde se desenvolverá el docente de forma profesional.
-
-        
         Normalización de metadatos
-        
         Los metadatos se entienden como cada uno de los términos indexados que componen la pregunta de investigación; de esta forma para verificar la normalización del lenguaje al momento de trabajar con cada término y con los diferentes sinónimos que existen de este, se utilizó el tesauro de Medline, el cual es el Medical Subject Headings (MeSH), que permite al usuario encontrar los términos indexados reportados en la mayoría de los artículos de las bases de datos; y de esta forma, se maneja un lenguaje controlado, haciendo uso de los descriptores utilizados en las bases de datos.
-
         Búsqueda y selección de artículos
-        
         Para iniciar la búsqueda de literatura se procedió a incluir los términos en la ecuación de búsqueda establecida que abarca la pregunta de investigación, la cual es: ¿De qué manera la revisión sistemática aplicada en la teoría - práctica aporta en el proceso formativo en estudiantes de biología y química en Colombia? Por ende, se creó la siguiente ecuación de búsqueda general que representa la forma estructura de la pregunta de investigación.
-
-        Población = (Estudiante* de biología y química en Colombia)
-
-        Intervención = (Revisión sistemática aplicada en la teoría - práctica)
-
-        Desenlace = (Aporte en el proceso formativo)
-        
-
-        Web of Science (ISI Web of Knowledge de Thomson Reuters) creado por Eugene Garfield en 1964, el cual facilita el acceso a un conjunto de bases de datos en las que aparecen citas de artículos de revistas científicas, libros y otros tipos de material impreso que abarcan todos los campos del conocimiento.
-
-        Scopus (Elsevier), una base de datos bibliográfica que contiene resúmenes y citas de artículos de revistas académicas cubriendo 21.000 títulos de más de 5.000 editores.
-
-        NCBI (National Center for Bitechnology Information), creada en 1988 con el fin de ser una biblioteca Nacional de Medicina en Estados Unidos (PubMed).
-
-        Scielo (Scientific Electronic Library Online) es una biblioteca electrónica que abarca una colección seleccionada de revistas científicas brasileñas.
-           
-        
-        Análisis de artículos
-
-        Una vez obtenidos los resultados de la RS para cada base de datos, se procedió a descargar los artículos obtenidos de cada base de datos al final de la revisión sistemática y se obtuvo su referencia bibliográfica. Se analizó cada artículo obtenido y se le asignó un número por base de datos, además se clasificó en tres categorías establecidas:
-
-        1. Categoría 1. Artículo teórico
-
-        2. Categoría 2. Artículo práctico
-
-        3. Categoría 3. Artículo teórico-práctico
-
-        En la categoría uno se ubicaron todos los artículos en los cuales se observó un fuerte desarrollo del componente teórico, el cual se estableció que puede estar representado por el desarrollo de teorías, fórmulas, ecuaciones matemáticas y modelos predictivos matemático
-        En la categoría dos se ubicaron todos los artículos en los cuales se vio un fuerte avance del componente práctico, en el que se estableció que puede estar representado por artículos en los que solo se observa trabajos experimentales o de campo y bajo contenido conceptual.
-        En la categoría tres, se ubicaron todos los artículos en los que se observó una unión entre el componente teórico y el componente práctico (existiendo un equilibrio entre ambos), donde el componente teórico respalda al práctico y a su vez, el componente práctico sustente la teoría.
-
-
-        Metaanálisis
-        
-        Tiene como finalidad la integración de los estudios y la posterior obtención de la información bibliométrica de los artículos primarios obtenidos en cada base de datos, se pretende analizar dichos artículos extraídos de WOS, esto debido a que permite descargar un archivo de texto de plano con la información detallada de cada artículo
-
-
-
+        Población = (Estudiante* de biología y química en Colombia), Intervención = (Revisión sistemática aplicada en la teoría - práctica)Desenlace = (Aporte en el proceso formativo)
         Conclusiones
 
         Finalmente, vemos que esa estrecha relación entre lo teórico y lo práctico es lo que complementa la formación no solo de estudiantes de la Licenciatura en Biología y Química, sino que también en estudiantes y trabajadores dedicados al estudio y desarrollo de investigaciones en estas áreas; logrando así una mejor correlación entre estos dos procesos de formación. De igual forma, las RS son de gran importancia para la realización de este tipo de investigaciones secundarias, debido a que permiten obtener conclusiones globales de la pregunta planteada, a partir de los resultados generados al final del proceso con los artículos que cumplen con todos los criterios establecidos.
-        
         En Colombia se observan los aportes que están realizando en cuanto a investigaciones que involucren procesos teóricos y prácticos en áreas afines de la biología y la química; que al comparar con otros países, Colombia no investiga tanto en esta relación según lo reportado y obtenido en dichas bases de datos, pero aun así ya se está investigando en la inclusión de los diferentes procesos formativos y la manera en que se pueden involucrar los conceptos teóricos y experimentales. Así mismo, se demuestra con la presente investigación que no es suficiente la relación teórico-práctica que se esté reportando actualmente para áreas de biología y química en Colombia.
         En forma general, estimamos que en el futuro se verá una tendencia mucho más exponencial para investigaciones enfocadas en los procesos formativos teórico-prácticos en estas áreas de interés, debido que desde nuestro punto de vista es donde más se nota la existencia de esta estrecha relación; dado que el maestro nunca podrá entrar a la parte experimental de un proceso, sin que le enseñe al estudiante unas bases teórico-conceptuales.
-        
-        
-        Agradecimientos
-
-        A la Vicerrectoría de Investigaciones y Posgrados de la Universidad de Caldas, por la aprobación y financiamiento del proyecto y a los integrantes del Semillero de Investigación Pedagógica, adscrito al Departamento de Estudios Educativos de la Facultad de Artes y Humanidades.
-        
-        Conflicto de intereses
-
-        Los autores manifiestan no tener conflicto de intereses con respecto al contenido de este artículo.
-
- 
         Referencias bibliograficas
-
-        Woutersen, A., Jardine, P. E., Bogotá-Angel, R. G., Zhang, H. X., Silvestro, D., Antonelli, A., … Hoorn, C. (2018). A novel approach to study the morphology and chemistry of pollen in a phylogenetic context, applied to the halophytic taxon Nitraria L. (Nitrariaceae). PeerJ, (7), 1-31. https://doi.org/10.7717/peerj.5055
-        
-        Zuluaga, M., Robledo, S., Osorio Zuluaga, G. A., Yathe, L., Gonzalez, D. y Taborda, G. (2016). Metabolómica y Pesticidas: Revisión sistemática de literatura usando teoría de grafos para el análisis de referencias. Nova, 14(25), 121. https://doi.org/10.22490/24629448.1735
-        
-        Znaor, A., Laversanne, M. & Bray, F. (2017). Less overdiagnosis of kidney cancer? an age-period-cohort analysis of incidence trends in 16 populations worldwide. International Journal of Cancer, 141(5), 925-932. https://doi.org/10.1002/ijc.30799
-
-       
-       
-
-
-
-
-        1 Universidad de Caldas, Departamento de Quimica, Sede Central, Manizales, Caldas, Colombia. semillero.investigacionpedagogica@ucaldas.edu.co
-        
-        2  Universidad de Caldas, Departamento de Estudios Educativos, Sede Central, Manizales, Caldas, Colombia  mariadelcarmen.suarez@ucaldas.edu.co
-        
-        3 Universidad de Caldas, Departamento de Estudios Educativos, Sede Central, Manizales, Caldas, Colombia dianayurany.alvarez@ucaldas.edu.co 
-
-        
-        Para citar este artículo: Betancourt Arango, J. P., Suárez Millán, M. C. y Álvarez Márquez, D. Y. (2022). Revisión sistemática de literatura sobre la relación entre la teoría y la práctica en estudiantes de biología y química de Colombia. Revista Luna Azul, 54, 114‐142. https://doi.org/10.17151/luaz.2022.54.7
-        `
+        Woutersen, A., Jardine, P. E., Bogotá-Angel, R. G., Zhang, H. X., Silvestro, D., Antonelli, A., … Hoorn, C. (2018). A novel approach to study the morphology and chemistry of pollen in a phylogenetic context, applied to the halophytic taxon Nitraria L. (Nitrariaceae). PeerJ, (7), 1-31. https://doi.org/10.7717/peerj.5055`
     },
 
 
     {
         titulo: "Fenología y variaciones estacionales de nutrientes en fanerófitos mediterráneos.",
-        autor: "J.F. Reynolds",
-        descripcion: "  La desertificación es uno de los principales problemas ambientales a los que se enfrentan los países situados en zonas de clima árido, semiárido y seco-subhúmedo. Pese a su importancia y al ingente esfuerzo investigador realizado",
-        img: "https://i.pinimg.com/originals/66/cc/d2/66ccd22273249ad1b5b246fdf7de5c4c.jpg",
+        autor: "R. Milla Gutiérrez",
+        descripcion: "  El ajuste entre los ciclos de actividad de las plantas y la estacionalidad del ambiente en el que viven es un aspecto fundamental de la estrategia ecológica de los organismos vegetales.",
+        img: "https://media.istockphoto.com/id/2148102432/es/foto/lake-ecosystem-in-italy.jpg?s=1024x1024&w=is&k=20&c=fh05WYZWVUq-mNGWC6ubeAVNmpdk9K-IE0THNylfxUs=",
         url:"https://rua.ua.es/dspace/bitstream/10045/7909/1/ECO_14(3)_18.pdf",
         
         parrafo1: `La degradación de la tierra y la desertificación se encuentran entre los principales problemas ambientales a los que se enfrentan los países situados en zonas de clima árido, semiárido y seco-subhúmedo (Puigdefábregas, 1995; Kassas, 1995; Dregne, 1996; Darkoh, 1998; Reynolds y Stafford Smith, 2002a). Así, han sido descritas por las Naciones Unidas (ONU) como uno de los 'aspectos del cambio global más importantes a los que se enfrenta la humanidad' (UNCCD 1994). Prueba de su importancia es el hecho de que la desertificación, al igual que ocurre con el cambio global y la biodiversidad, es objeto de una convención internacional auspiciada por la ONU, la Convención para la Lucha contra la Desertificación (CLD). 
         La CLD fue establecida para facilitar el papel de los gobiernos nacionales en el establecimiento y aplicación de políticas para combatir la desertificación. Esta convención proporciona una notable infraestructura (e.g. un Secretariado y un Mecanismo de Acción Global), que tiene como objetivo movilizar y canalizar los recursos económicos, así como transferir tecnología a los países envías de desarrollo (detalles en Chasek y Corell, 2002).
         Población humana y usos del suelo en las zonas áridas, semiáridas y seco-subhúmedas la desertificación es un término tradicionalmente asociado a las zonas áridas, semiáridas y secas-subhúmedas, genéricamente denominadas ?drylands? (en adelante, zonas áridas). Estas zonas se caracterizan por condiciones climáticas
         extremas, con precipitación escasa y muy variable, temperaturas elevadas (o muy bajas en el caso de los ?desiertos fríos?) y elevada evapotranspiración potencial. Técnicamente, las zonas áridas se definen como zonas que tienen un índice de aridez (obtenido a partir del cociente entre la precipitación anual media y la evapotranspiración potencial media) comprendido entre 0.05 y 0.65 (véase Middleton y Thomas, 1997 para una revisión).
-
-        ¿Qué es la desertificación?
-
         Hasta la fecha se han propuesto más de cien definiciones formales de desertificación (Tabla 3). Estas definiciones cubren una gran variedad de temas, incluyen distintas escalas espaciales y temporales y a menudo no son compatibles entre sí (Reynolds 2001). Esta controversia que rodea a su definición se debe al hecho de que la desertificación es un fenómeno complejo que tiene numerosas facetas, algunas de las cuales no son fácilmente identificables. Una confusión bastante común entre científicos de distintas áreas y gestores del territorio es el igualar la degradación de la tierra con la degradación del suelo. Mientras que la importancia de los recursos edáficos en este fenómeno es incuestionable, la desertificación es un fenómeno más general, que afecta a todo el ecosistema.
         Así, la definición de Stocking y Murnaghan (2001) enfatiza los cambios en las variables biofísicas y su impacto en las poblaciones humanas: ? la degradación de la tierra es el fenómeno mediante el cual cambios en el estado de uno o más recursos (suelos, vegetación, agua, etc.) provocan una disminución temporal o permanente de su capacidad productiva?
         La definición adoptada por la CLD va más allá, y define la degradación de la tierra como ?la reducción o pérdida de la productividad económica y complejidad de los ecosistemas terrestres, incluyendo a los suelos, vegetación y a otros componentes bióticos de los ecosistemas, así como a los procesos ecológicos,
-        biogeoquímicos e hidrológicos que tienen lugar en los mismos?. Según esta definición, la degradación de la tierra incluiría, entre otros, a fenómenos como la erosión eólica e hídrica, los cambios en el régimen de incendios, las alteraciones en los ciclos biogeoquímicos (ej. disminución en la capacidad de reciclaje de nutrientes y pérdida de los mismos del sistema) y las invasiones biológicas.
-
-        El CLD define la desertificación como la ?degradación de la tierra en zonas áridas, semiáridas y subhúmedas resultante de varios factores, incluyendo las variaciones climáticas y las actividades humanas?. Esta definición es muy útil porque deja claro que la desertificación es un fenómeno que tiene componentes biofísicos y socioeconómicos que afectan al bienestar de las personas, comprende las dos dimensiones del problema (biofísica y socioeconómica),
-        Enfatiza el hecho de que la degradación de la tierra no es equivalente a la degradación del suelo. Pese a que tiene distintos problemas, algunos de los cuales se discutirán posteriormente, pensamos que es la más adecuada de todas las que se han propuesto hasta la fecha.
-
-        `,
+        biogeoquímicos e hidrológicos que tienen lugar en los mismos?. Según esta definición, la degradación de la tierra incluiría, entre otros, a fenómenos como la erosión eólica e hídrica, los cambios en el régimen de incendios, las alteraciones en los ciclos biogeoquímicos (ej. disminución en la capacidad de reciclaje de nutrientes y pérdida de los mismos del sistema) y las invasiones biológicas.`,
         
         parrafo2: `¿Cuánta superficie está afectada por la desertificación?
-
         Estimar de manera precisa la superficie afectada por la desertificación es una tarea díficil. Los organismos oficiales estiman que el 70 % de toda la superficie ocupada por las zonas áridas está afectada por la desertificación (UNCCD 2000).
         Estas cifras han sido criticadas y puestas en duda por distintos autores (Thomas, 1997; Lal, 2001), ya que se obtienen a partir de estimaciones subjetivas proporcionadas por expertos, evaluaciones cualitativas y datos de variada consistencia y credibilidad.
         Lamentablemente, la definición de desertificación proporcionada por el CLD no permite una sencilla cuantificación de la superficie afectada por este proceso, especialmente si dicha cuantificación tiene que darse en la forma de un índice numérico.
-       
-        Además, la mayor parte de estimaciones de la superficie afectada por la desertificación sólo tienen en cuenta los factores biofísicos (ej. erosión, pérdida de cobertura vegetal, cambios en el albedo) o socioeconómicos (ej. pérdidas económicas, disminución de la producción, movimientos de la población),
-        pero raramente consideran ambos factores simultáneamente (Landa et al., 1997; Wu y Ci, 2002; Liu et al., 2003). Parte de la incertidumbre que rodea a las estimaciones realizadas hasta la fecha podría eliminarse si los futuros esfuerzos en esta materia se centraran en realizar evaluaciones sintéticas que incluyan variables biofísicas y socioeconómicas.
-        La utilización de variables críticas que contribuyan a comprender la causa, más que el efecto, de la desertificación permitirá también establecer de manera más precisa las zonas ya desertificadas, así como predecir aquellas áreas que serán desertificadas en el futuro (Stafford Smith y Reynolds 2002). Por supuesto, estas tareas no son fáciles y se ven complicadas por el hecho de que la importancia relativa de los distintos agentes causales de la desertificación varía tanto en el espacio como en el tiempo. Así pues, aproximaciones desarrolladas para estimar la desertificación en una región determinada pueden no ser efectivas en otros lugares. 
-        
-
-        Causas de la desertificación
-
-        La desertificación es causada por un gran número de factores que varían en función de la región que se considere y que están relacionados en mayor o menor medida.
-        Utilizando una base de datos a nivel global formada por 132 estudios de caso, Geist y Lambin (2004) han identificado cuatro categorías principales de agentes causales de la desertificación: aumento en laaridez, impactos de la actividad agrícola y ganadera, extracción de madera y de otros componentes de la vegetación y impactos del aumento en las infraestructuras, que pueden separarse en regadíos, carreteras, poblaciones e industria extractiva (minería, petróleo, gas, etc.). Según este estudio, el 10 % de los casos evaluados fueron causados por un único factor (5 % debido a un aumento en la aridez y 5 % debido a los impactos de la actividad agrícola y ganadera), el 30 % fueron causados por la combinación de dos factores y el resto fueron causados por la combinación de tres o cuatro factores.
-        El estudio de Geist y Lambin (2004) también identificó que la importancia relativa de los distintos agentes causales varía en función de la región que se considere, y que dichos agentes están a su vez condicionados por combinaciones de factores socioeconómicos y biofísicos inherentes a las distintas regiones. 
-        Así, en el 54 % de los casos evaluados en el sur de Europa tanto el clima como los factores tecnológicos fueron identificados como las principales causas que originan la desertificación. 
-        Por su parte, en el 38 % de los casos evaluados en Africa, se ha concluido que la desertificación fue causada por el clima, solo o actuando en combinación con cambios demográficos. En los Estados Unidos, el 50 % de los casos evaluados fueron atribuidos a la combinación del clima con los factores tecnológicos o a estos dos factores interactuando con factoreseconómicos.
-        Los casos evaluados en Asia, América Latina y Australia sólo pudieron ser atribuidos a interacciones complejas entre los distintos agentes causales evaluados.
-
-        Consecuencias de la desertificación
-        
-        Las consecuencias biofísicas de la desertificación difieren de manera notable entre regiones en función de: la intensidad y el número de agentes causales involucrados, la extensión del área afectada y la duración de la degradación, incluso dentro de una región determinada las consecuencias
-        van a variar en función de las características intrínsecas del ecosistema y de las distintos componentes y procesos del ecosistema que sean analizados. Por ejemplo, existe cierto consenso en asociar el reemplazamiento de herbazales por matorrales que está ocurriendo en el sur de los Estados Unidos y en zonas de América del Sur con la desertificación (Schlesinger et al., 1990; Van Auken, 2000)
-        
-        Este cambio ha traido consigo la pérdida de suelo y de productividad vegetal y la modificación de los ciclos de nutrientes en los ecosistemas que se han visto invadidos por los arbustos (Schlesinger et al., 1999; Huenneke et al., 2002). No obstante, este proceso también ha aumentado la diversidad de especies de aves (Pidgeon et al., 2001), mamíferos (Whitford, 1997) y hormigas (Bestelmeyer, 2005) en estas áreas. Así pues, es díficil generalizar sobre las consecuencias biofísicas de la desertificación, así como aplicar generalidades comúnmente asociadas a este proceso a situaciones específicas, proceso que fácilmente inducirá a error y a aumentar la incertidumbre que rodea a la desertificación.
-        
-        distintas unidades que funcionan como entidades políticas, sociales y económicas independientes, y que han evolucionado a lo largo de los años para adaptarse a un ambiente difícil e impredecible. La falta de conocimiento sobre su complejo funcionamiento ha propicidado que las iniciativas establecidas desde niveles administrativos superiores (gobierno nacional) para gestionar las zonas ocupadas por estas comunidades hayan tenido poco éxito. No obstante, la creación de estructuras en niveles jerárquicos superiores, como el CLD, pueden proporcionar el contexto appropiado para que niveles jerárquicos inferiores sean conscientes de la desertificación y su importancia (Batterbury et al., 2002; Lambin et al., 2002).  El Paradigma de la Desertificación de Dahlem (PDD): una nueva iniciativa para avanzar en el conocimiento y mitigación de la desertificación a escala global
-
-        La evaluación simultánea de las causas y consencuencias biofísicas y socioeconómicas de la desertificación ha sido reconocida como uno de los principales retos en la investigación sobre la desertificación (Reynolds, 2001). En un intento de abordar este reto, los programas de investigación internacional “Global Change in Terrestrial Ecosystems (GCTE)” y “Land Use and Cover Change (LUCC)” unieron sus fuerzas para establecer una iniciativa a escala global sobre la desertificación. 
-        Uno de los primeros productos de dicha actividad fue el lanzamiento del libro “Global Desertification: Do Humans Cause Deserts?” (Reynolds y Stafford Smith, 2002b), que evalúa de manera explícita muchas de las interacciones que tienen lugar entre los aspectos biofísicos y socioeconómicos de la desertificación. Basándose en la multitud de interacciones y sinergias entre los sistemas biofísicos y socioeconómicos que tienen lugar en las zonas áridas y semiáridas, así como en la información presentada en los capítulos de dicho libro, Stafford Smith y Reynolds (2002) propusieron el Paradigma de la Desertificadión de Dahlem (PDD). 
-        El PDD es un nuevo marco conceptual que tiene dos características principales: pretende englobar las distintas interrelaciones dentro de los sistemas biofísicos y ambientales que originan la desertificación utilizando un único marco conceptual sintético y puede ser evaluado empíricamente, lo que asegura que sea un marco conceptual dinámico, que puede ser revisado y mejorado.
-
-        Gestión de zonas desertificadas 
-        
-        En apartados precedentes se han proporcionado ejemplos de la magnitud e importancia de la desertificación como un problema ambiental de primer orden a escala global. Con el fin de prevenir el avance de la desertificación y de restaurar las zonas afectadas por este proceso, numerosos países han puesto en marcha distintas políticas y actuaciones sobre el terreno. 
-        Estas acciones pueden englobarse en tres grandes apartados: prevención, seguimiento y restauración.  Las acciones encaminadas a prevenir la aparición de la desertificación son bastante escasas y, cuando existen, normalmente se centran en aquellos factores antrópicos que originan este problema. Dichas acciones varían en función de las características socioeconómicas de cada país, pero a menudo incluyen el uso de subsidios económicos para promover cambios en el uso de la tierra (Harou, 2002), 
-        la diversificación de las actividades humanas (Pamo, 1998) y el establecimiento de programas para mejorar la educación y el bienestar de las personas (Vogel y Smith, 2002). Esta última actuación es de vital importancia ya que una de las principales causas de la desertificación en los países en vías de desarrollo es el aumento de la presión sobre los recursos naturales derivada de la elevada tasa de natalidad que presentan estos países (Le Houérou, 1996; Geist y Lambin, 2004)
-        
-        Existen numerosos ejemplos de lugares donde se ha conseguido controlar la natalidad y promover el desarrollo de sistemas de producción sustentables en zonas desertificadas (Arkutu, 1995; Vogel y Smith, 2002), que indican que con los recursos apropiados y con voluntad política pueden controlarse algunos de los principales agentes causales de la desertificación. Las actividades de seguimiento y muestreo están siendo cada vez más importantes en la gestión de las zonas afectadas por la desertificación.
-        El establecimiento de programas de seguimiento a largo plazo es una manera efectiva de evaluar el estado de los recursos naturales y la evolución de los procesos de desertificación. 
-        Estos programas son de gran utilidad para detectar cambios tempranos en la estructura y funcionamiento del ecosistema que indiquen la presencia de desertificación.
-        
-        
-        
         Representación esquemática de la organización y tareas de ARIDnet. ARIDnet es una red de investigación coordinada por un comité de dirección internacional, pero estructurada funcionalmente en tres nodos geográficos (América del Norte y del Sur; Asia/Australia y Europa/África), cada uno con financiación y dirección independiente (Reynolds et al. 2003). ARIDnet tiene cuatro tareas específicas (véase el texto para detalles sobre las mismas). 
         La página web de ARIDnet (http://www.biology.duke.edu/aridnet/), en fase de desarrollo en la actualidad, tiene como fin el facilitar la ejecución de las distintas tareas y la coordinación entre los distintos integrantes de la red. 
         Permite establecer medidas de gestión efectivas y económicamente viables (Fernández et al., 2002). Pese a su innegable utilidad, la precariedad económica que caracteriza a los países en vías de desarrollo impide su aplicación en estas áreas a menos que reciban apoyo económico externo.`,
         parrafo3: `Desertificadas 
-        
         Durante las últimas décadas se han producido tremendos avances conceptuales, metodológicos y tecnológicos para ayudar a los gestores del territorio a establecer medidas de gestión apropiadas para las zonas áridas. No obstante, los distintos programas que se han puesto en marcha para combatir la desertificación no han sido todo lo efectivos que se esperaba (Le Houérou, 1996). Existen muchas razones para ello, incluyendo la falta de recursos económicos y de voluntad política, las limitaciones tecnológicas, la falta de participación de la gente directamente implicada, el aumento de la aridez en numerosas zonas y el continuo debate sobre todo lo que que rodea a la desertificación, que se ha visto alimentado por la falta de un marco conceptual coherente e integrador (Chasek and Corell, 2002; Corell, 1999; Toulmin, 2001; Reynolds y Stafford Smith, 2002a). Pensamos que el PDD constituye un marco conceptual sintético y pluriescalar idóneo para abordar los aspectos biofísicos y socioeconómicos de la desertificación. Pese a que todavía se encuentra en su infancia -y ciertamente tiene limitaciones-,  tiene un gran potencial para permitir el avance del conocimiento sobre la desertificación, lo que en último término proporcionará a los gestores del territorio con herramientas apropiadas para gestionar las zonas desertificadas en las distintas regiones del mundo. 
 
-        Agradecimientos
-
-        La investigación subyacente a esta revisión ha sido financiada por la National Science Foundation (NSF-DEB-02-34186) y por el Centro para el Estudio Integrado de las Dimensiones Humanas del Cambio Global mediante un acuerdo entre la National Ecosistemas 14 (3). Septiembre 2005.
-        Science Foundation (SBR-9521914) y la universidad Carnegie Mellon. El trabajo de F. T. Maestre ha sido financiado por una beca Fulbright, financiada por la Secretaría de Estado de Universidades y el Fondo Social Europeo.
-
-        Referencias
-
-        Andrés, C. y Ojeda, F. 2002. Effects of afforestation with pines on woody plant diversity of Mediterranean heathlands in
-        
-        southern Spain. Biodiversity & Conservation 11: 1511-1520.
-        
-        Arkutu, A. 1995. Family planning in Sub-Saharan Africa: Present status and future strategies. International Journal of
-        Gynecology and Obstetrics 50: S27-S34.
-        
-        Asner, G. P., Borghi, C. E. y Ojeda, R. A. 2003 Desertification in central Argentina: Changes in ecosystem carbon and
        
-        nitrogen from imaging spectroscopy. Ecological Applications 13: 629-648.
-       
-        Asner, G. P. y Heidebrecht, K. B. 2005. Desertification alters regional ecosystem-climate interactions. Global Change Biology
-        11: 182-194.
-        
-        Bastin, G., Ludwig, J. A., Eager, R. W., Chewings, V. H. y Liedloff, A. C. 2002. Indicators of landscape function: comparing
-        
-        patchiness metrics using remotely-sensed data from rangelands. Ecological Indicators 1: 243-260.
-
         `
     },
     {
         titulo: "Estado actual y perspectivas en el empleo de la comunidad de macroinvertebrados bentónicos como indicadora del estado ecológico de los ecosistemas fluviales españoles.",
-        autor: "A. AlonsoJ.A. Camargo",
-        descripcion: "  Desde siempre los ecosistemas fluviales se encuentran sometidos a numerosas perturbaciones causadas por las actividades humanas. La regulación y rectificación de cauces, la contaminación por materia orgánica, la eutrofización y las actividades mineras.",
-        img: "https://imgv2-1-f.scribdassets.com/img/document/304407518/original/05b966189b/1588958287?v=1",
+        autor: "A. Alonso, J.A. Camargo",
+        descripcion: " Desde siempre los ecosistemas fluviales se encuentran sometidos a numerosas perturbaciones causadas por las actividades humanas. La regulación y rectificación de cauces, la contaminación por materia orgánica, la eutrofización y las actividades mineras, entre otros, producen cambios en la estructura y funcionamiento de las comunidades biológicas que albergan los ríos.",
+        img: "https://media.istockphoto.com/id/1482730982/es/foto/paisaje-del-lago.jpg?s=1024x1024&w=is&k=20&c=VfffchzG6FLnEswWXrqGGPLVbBG5D7vIm73DQlzPMqg=",
         url:"https://rua.ua.es/dspace/bitstream/10045/7901/1/ECO_14(3)_11.pdf",
         
         parrafo1: `Los macroinvertebrados bentónicos como indicadores de calidad del agua 
-
         Invertebrados bentónicos aquellos que habitan en el lecho fluvial (entre las piedras, plantas acuáticas sumergidas, etc.) ya sea durante todo su ciclo vital (como los moluscos) o parte de él (como muchos insectos, en los que la fase adulta es terrestre y la fase larvaria es acuática). Se denominan 'macroinvertebrados' a los que alcanzan a lo largo de su ciclo de vida un tamaño superior a 0,200 mm, lo que les puede hacer visibles a simple vista (Rosenberg y Resh, 1993). Esta comunidad se caracteriza por una elevada diversidad taxonómica.
-        Esta comunidad también posee una alta variedad de adaptaciones morfológicas y de comportamiento para poder aprovechar los diferentes recursos tróficos que ofrece un ecosistema fluvial. En un río podemos encontrar invertebrados que se alimentan de restos vegetales en descomposición procedentes principalmente de la vegetación de ribera (hojas, ramas, raíces, etc.), a estos invertebrados se les denomina desmenuzadores, entre ellos los anfípodos que son pequeños crustáceos y algunas especies de tricópteros y plecópteros. 
-        
-        
-        Este grupo permite la reducción de la materia orgánica más gruesa en partículas más finas, de tal manera que puedan ser utilizadas por otros invertebrados. A estos últimos invertebrados se les denomina colectores, ya que se alimentan de las pequeñas partículas orgánicas en suspensión (colectores-filtradores) o depositadas en el fondo (colectoresrecogedores), a este grupo pertenecen numerosas especies de dípteros y tricópteros. Para poder capturar estas partículas (inferiores a 1 mm de diámetro) algunos invertebrados presentan adaptaciones morfológicas específicas, como pueden ser premandíbulas dotadas de pequeños filamentos, que permiten retener las partículas en suspensión. 
-        Otros grupos tejen redes, con seda sintetizada por ellos mismos, que situadas a contracorriente retienen esas partículas. Otro recurso trófico es el perifiton, el cual crece alrededor de los substratos sumergidos que reciben suficiente luz, y que está formado principalmente por algas microscópicas autótrofas, hongos y bacterias. Este recurso es utilizado por muchos invertebrados, entre ellos losmoluscos gasterópodos que por medio de la rádula consiguen arrancarlo, debido a este mecanismo de alimentación a estosinvertebrados se les denomina raspadores.
-        
-        Otros invertebrados se alimentan de animales vivos y son por tanto depredadores, las presas más habituales son otros invertebrados o pequeños alevines de peces y renacuajos. Los mecanismos de depredación pueden ser al acecho, como es el caso de algunas larvas de libélulas que enterradas en el sedimento detectan el movimiento en la superficie y proyectan su mandíbula hacia fuera para capturar a la presa, o por búsqueda activa como pueden ser las planarias que deslizándose por el lecho fluvial buscan pequeñas presas, y una vez localizadas las inmovilizan por medio de neurotoxinas, alimentándose de los fluidos internos de las mismas.
-        `,
+        Esta comunidad también posee una alta variedad de adaptaciones morfológicas y de comportamiento para poder aprovechar los diferentes recursos tróficos que ofrece un ecosistema fluvial. En un río podemos encontrar invertebrados que se alimentan de restos vegetales en descomposición procedentes principalmente de la vegetación de ribera (hojas, ramas, raíces, etc.), a estos invertebrados se les denomina desmenuzadores, entre ellos los anfípodos que son pequeños crustáceos y algunas especies de tricópteros y plecópteros.  `,
         parrafo2: `Esta alta diversidad taxonómica, de tipos de alimentación y de diferentes ciclos de vida hacen de la comunidad de macroinvertebrados una buena indicadora de la calidad ecológica de los ríos, ya que ofrece un amplio espectro de respuestas a las diferentes perturbaciones ambientales.
         Además, la relativamente escasa capacidad de desplazamiento de los macroinvertebrados permite un efectivo análisis espacial de la contaminación, que unido a los largos ciclos de vida de algunos grupos (existen especies de plecópteros que pueden permanecer hasta 2 años en fase larvaria) permiten también el análisis temporal de las perturbaciones (Rosenberg y Resh, 1993).
-        Entre los grupos más sensibles a las alteraciones del ecosistema están las larvas acuáticas de los insectos pertenecientes a los órdenes Trichoptera, Ephemeroptera, Plecoptera, y las larvas y adultos de los coleópteros acuáticos.
-        
-
-
-        Estos grupos han mostrado una alta sensibilidad a la contaminación y a la degradación de los ecosistemas acuáticos españoles (García de Jalón y González del Tánago, 1986; García-Criado et al., 1999; Ribera et al., 2002; Sánchez-Fernández et al., 2004). 
-        No obstante, otros grupos muestran una alta resistencia a las perturbaciones y a la contaminación, como pueden ser algunas especies de oligoquetos, dípteros y moluscos (Rosenberg y Resh, 1993; Alonso y Camargo, 2004; Camargo et al., 2004). 
-        Entre las estrategias para soportar estas condiciones se encuentran la alta tolerancia a compuestos tóxicos o la corta duración de sus ciclos de vida, lo que les permite medrar en condiciones adversas.
-      
-        Estos índices bióticos suelen ser específicos para un tipo de contaminación y/o región geográfica, y se basan en el concepto de organismo indicador. Permiten la valoración del estado ecológico de un ecosistema acuático afectado por un proceso de contaminación, para ello a los grupos de invertebrados de una muestra se les asigna un valor numérico en función de su
-        tolerancia a un tipo de contaminación, los más tolerantes reciben un valor numérico menor y los más sensibles un valor numérico mayor, la suma de todos estos valores nos indica la calidad de ese ecosistema Aunque en un principio se desarrollaron índices bióticos en los cuales era necesario una identificación taxonómica de los macroinvertebrados hasta el
-        nivel de género o especie (como por ejemplo el índice de Chandler, 1970), o una estimación cuantitativa de sus abundancias (como por ejemplo el índice de Hilsenhoff (1977, 1987)), se ha comprobado posteriormente que los índices más prácticos sonaquellos en los que solo son necesarios datos cualitativos (presencia o ausencia) y una identificación taxonómica hasta el nivel de familia.  
-        
-        Los macroinvertebrados bentónicos como indicadores de contaminación por materia orgánica
-
-        La contaminación por materia orgánica de los ríos se debe principalmente a los vertidos procedentes de núcleos urbanos, piscifactorías, actividades ganaderas e industrias sin tratamientos de depuración adecuados. 
-        Este tipo de contaminación es muy frecuente en los ecosistemas fluviales produciendo graves consecuencias en los mismos, por este motivo sus efectos sobre las comunidades biológicas han sido muy estudiados desde el punto de vista científico (Hilsenhoff, 1987; Camargo, 1992; 1994; Loch et al., 1996; Zamora-Muñoz y Alba-Tercedor, 1996; Walsh, 2000; Angelier, 2002; Rueda et al., 2002; Dahl et al., 2004). 
-        El incremento de materia orgánica en el agua produce una proliferación de los microorganismos encargados de su descomposición, lo que genera entre otros efectos una reducción de la concentración de oxígeno disuelto en el agua y un aumento de la concentración de nutrientes inorgánicos, como el amonio y el fosfato. La mayoría de invertebrados son sensibles a esta reducción de oxígeno disuelto, de tal forma que reducen su abundancia, o incluso desaparecen.
-        `,
+        Entre los grupos más sensibles a las alteraciones del ecosistema están las larvas acuáticas de los insectos pertenecientes a los órdenes Trichoptera, Ephemeroptera, Plecoptera, y las larvas y adultos de los coleópteros acuáticos. `,
         parrafo3: `La eutrofización produce cambios en la estructura de la comunidad de macroinvertebrados bentónicos
-
         La eutrofización de los ecosistemas fluviales consiste principalmente en un incremento excesivo en las concentraciones de compuestos inorgánicos de fósforo y nitrógeno. 
         Este enriquecimiento de nutrientes es uno de los principales causantes de la degradación ecológica de los ecosistemas acuáticos (Vitousek et al., 1997; Carpenter et al., 1998). En condiciones naturales los nutrientes son limitantes para los productores primarios, de tal forma que su aumento genera un incremento de los organismos fotosintéticos.
         Cuando el aumento de nutrientes es causado por el hombre se le denomina 'eutrofización cultural'. El origen de estos nutrientes puede ser diverso: los vertidos de las estaciones de depuración de aguas residuales que carecen de tratamiento terciario (el cual elimina los nutrientes procedentes de la mineralización de la materia orgánica), algunos
         procesos industriales, la escorrentía procedente de zonas agrícolas donde se emplea gran cantidad de fertilizantes, la deposición atmosférica de determinados contaminantes o la descomposición de la materia orgánica procedente de núcleos urbanos o industriales. El incremento de productores primarios genera cambios en la estructura trófica de la comunidad de macroinvertebrados bentónicos, ya que las plantas acuáticas y el perifiton son un recurso alimenticio para muchos invertebrados. 
-        Además, en muchas ocasiones gran parte de la biomasa de productores primarios se descompone al terminar sus ciclos vitales, generando un efecto parecido al de la contaminación por materia orgánica antes descrito.
-
-        
-        
-        
-        
-        Las actividades mineras reducen la diversidad de la comunidad de macroinvertebrados bentónicos
-
-        Las minas abandonadas de donde se extraían metales a partir de sulfuros polimetálicos son una importante fuente de contaminación para los ríos cercanos (Marqués et al., 2001). Los sulfuros polimetálicos no extraídos de las minas se oxidan al quedar expuestos a la intemperie generando sulfatos y ácido sulfúrico. 
-        Este último hace disminuir el pH de las aguas receptoras y por tanto facilita la biodisponibilidad de los metales (cobre, hierro, mercurio, cinc, etc.). Esta contaminación por metales genera graves efectos sobre los seres vivos, especialmente para los grupos más sensibles a estos compuestos
-        como son los crustáceos y los gasterópodos (Rosenberg y Resh, 1993), lo cual se manifiesta por medio de cambios en la estructura de la comunidad de macroinvertebrados bentónicos de los ríos afectados. Los estudios en España han mostrado como las actividades mineras producen una reducción del número de taxones de macroinvertebrados pertenecientes a los órdenes Ephemeroptera, Plecoptera y Trichoptera (=riqueza EPT) aguas abajo de una mina abandonada de cinc y plomo en un río del País Vasco (Marqués et al. 2001).
-
-
-        Conclusiones
-
-        Los ríos españoles reciben vertidos contaminantes de naturaleza muy diversa. El estudio de los cambios que se producen en la comunidad de macroinvertebrados bentónicos se ha mostrado como una herramienta eficaz para valorar estas perturbaciones causadas por la contaminación por  materia  orgánica, la  eutrofización  y las actividades mineras. 
-        Aunque son cada vez más frecuentes en España los trabajos científicos que emplean esta comunidad como bioindicadora, aún es necesario  profundizar en la ecología y taxonomía de este grupo para poder mejorar los índices existentes. Además, la presencia en nuestros ríos de nuevos contaminantes, como pueden ser los pesticidas empleados en agricultura o los restos de productos farmacéuticos en los vertidos procedentes de plantas de tratamiento de aguas residuales urbanas, hace necesario profundizar en sus efectos sobre las comunidades fluviales y desarrollar nuevos índices de biovaloración específicos para  estos compuestos  químicos. También es necesaria la incorporación  de criterios de calidad ambiental en la legislación basados en estos índices, de tal forma que las comunidades fluviales puedan ser empleadas para detectar y sancionar episodios de contaminación fluvial de diversa índole.
-        
-
-        Referencias
-
-        Alba-Tercedor, J. y Pujante, A. M. 2000. Running-water biomonitoring in Spain: opportunities for a predictive approach. En Assessing the biological quality of freshwaters: RIVPACS and other techniques (eds. Wright, J. F., Sutcliffe, D. W. y Furse, M. T.), pp.207-216, Freshwater Biological Association, Ambleside, UK.
-       
-        Alba-Tercedor, J. y Sánchez-Ortega, A. 1988. Un método rápido y simple para evaluar la calidad biológica de las aguas corrientes basado en el de Hellawell (1978). Limnetica 4: 51-56.
-        
-        Alba-Tercedor, J., Jáimez-Cuéllar, P., Álvarez, M., Avilés, J., Bonada, N., Casas, J., Mellado, A., Ortega, M., Pardo, I., Prat, N., Rieradevall, M., Robles, S., Sáinz-Cantero, C. E., Sánchez-Ortega, A., Suárez, M. L., Toro, M., Vidal-Abarca, M. R., Vivas, S. y Zamora-Muñoz, C. 2002. Caracterización del estado ecológico de los ríos mediterráneos ibéricos mediante el índice IBMWP (antes BMWP?). Limnetica 21: 175-185.
-        
-        Allan, J. D. 1995. Stream ecology: structure and function of running waters. Chapman y Hall, Londres, Great Britain.
-        
-        Alonso, A. y Camargo, J. A. 2004. Sub-lethal responses of the aquatic snail Potamopyrgus antipodarum (Hydrobiidae,
-        
-        Mollusca) to unionized ammonia: a tolerant invading species. Fresenius Environmental Bulletin 13: 607-615.
-        
-        Alonso, A. y Camargo, J. A. 2005. Evaluating the effectiveness of five mineral artificial substrates for the sampling of benthic
-        macroinvertebrates. Journal of Freshwater Ecology 20: 311-320.
-        `
+        Además, en muchas ocasiones gran parte de la biomasa de productores primarios se descompone al terminar sus ciclos vitales, generando un efecto parecido al de la contaminación por materia orgánica antes descrito.`
     },
 
 
     {
         titulo: "La diversidad de humedales de la provincia de Ciudad-Real.",
         autor: "C. Donaire",
-        descripcion: "La provincia de Ciudad-Real, perteneciente a la Comunidad Autónoma de Castilla-La Mancha, es un complejo y variado territorio que alberga humedales de muy diversa tipología. En este artículo pasaremos revista a este tipo de ecosistemas tan peculiares",
-        img: "https://image.isu.pub/170530194320-6fbbedf4e7ef5a004b88955631fdabf8/jpg/page_1.jpg",
+        descripcion: "La provincia de Ciudad-Real, perteneciente a la Comunidad Autónoma de Castilla-La Mancha, es un complejo y variado territorio que alberga humedales de muy diversa tipología. En este artículo pasaremos revista a este tipo de ecosistemas tan peculiares, donde sobreviven aún muchas especies de fauna y flora de interés conservacionista.",
+        img: "https://media.istockphoto.com/id/696234878/es/foto/sandalia.jpg?s=1024x1024&w=is&k=20&c=h9jQHkEgAuTAT8b_nwEj56IctTi1Uwer7-7_mV_SbDE=",
         url:"https://www.redalyc.org/pdf/540/54058837012.pdf",
         
         parrafo1: `El concepto de humedal 
-        
         Según el Convenio Ramsar sobre las zonas húmedas, se consideran humedales las extensiones de marismas, pantanos,turberas o superficies cubiertas de agua, naturales, artificiales, permanentes, dulces o saladas cuya profundidad no exceda de 6 metros.
         Por otra parte, en González Bernáldez, F. 1992 y en Casado., S y Montes, C. 1995 se define humedal como: ? cualquier unidad funcional del paisaje, que no siendo un río, ni un lago, ni el medio marino, constituye tanto espacial como temporalmente, una anomalía hídrica positiva en relación con un territorio adyacente más seco?. 
-        Esta segunda definición es mucho más restrictiva ya que de ella se excluyen los ríos, los lagos y el medio marino. Es quizás por ello, que la propuesta en el Convenio Ramsar sea más intuitiva, ya que en ella quedan incluidos un amplio abanico de hábitat acuáticos y no acuáticos, en los que a veces es muy difícil establecer sus límites. Estos hábitat y humedales serían de tres tipos básicos: los costeros, los interiores y los artificiales. 
-        
-        Obviamente en nuestra provincia no encontramos humedales costeros, pero si que están ampliamente representados los interiores y en menor medida los artificiales. Dentro de estos últimos podríamos citar desde las charcas ganaderas que se extienden por las dehesas de Alcudia y Montes de Toledo, hasta las graveras abandonadas existentes en el entorno del río Bañuelo, en las proximidades de Malagón. Por lo que respecta a los humedales de interior podemos establecer tres tipos básicos: las tablas y remansos fluviales, las lagunas de aguas salinas o dulces, y los bonales o trampales.
-        
-        Diversidad de humedales
-
-        Desde un punto de vista geomorfológico se trata de lagunas formadas en depresiones endorreicas (Ruiz, R. 2002); donde se acumula el agua de lluvia, que a su vez se carga de sales a medida avanza la primavera y el verano. Estas lagunas son utilizadas por las aves acuáticas como lugares de nidificación o invernada y en ellas es posible observar algunas especies de singular interés como la malvasia cabeciblanca, el pato colorado, la pagaza piconera, el zampullín cuellinegro, la grulla, y cada vez más frecuentemente el flamenco, que ha intentado nidificar en algunas de ellas. 
-        En estos humedales encontramos diversos hábitat de protección especial, a saber: pastizales salinos continentales, comunidades mediterráneas pioneras halo-nitrófilas de plantas anuales, pastizales salinos mediterráneos, praderas juncales halófilas mediterráneas y matorrales halófilos mediterráneos, estepas continentales halófilas y   los matorrales halófilos mediterráneos (DOCM, 1999) (DOCM, 2001).
-        Se trata de pequeños humedales que se cargan con aguas de manantial. El  agua que contienen se mueve con dificultad y empapa el terreno, encharcándolo todo o casi todo el año. Son ecosistemas higrófilos y ácidos, en los que las condiciones anaérobicas del suelo dificultan la  mineralización de la materia orgánica, que tiende a acumularse en forma de turba. En estas circunstancias muchas especies evitan estos hábitat, aunque otras, en cambio, se han adaptado a ellos, como los brezos de bonal, el arrayán de pantano, los esfagnos y varias plantas insectívoras  tales como Utricularia australis, Pinguicula.
-        `, 
-        parrafo2: `Los problemas ambientales que afectan a los humedales
-        
-        Son muchos y muy variados los problemas ambientales que afectan a los humedales en Ciudad-Real, pero sin duda alguna el más impactante de todos es la intensa sobreexplotación a la que se ven sometidos los acuíferos de la Cuenca alta del
-        Guadiana que junto con las sequías que se vienen padeciendo periódicamente, causan entre otros los siguientes impactos ambientales (Forne, J. et al., 1998):
-        
-        1. Los ríos Guadiana, Záncara y Cigüela dejan de circular, afectando a la recarga de los humedales y favoreciendo la regresión de la vegetación ribereña.
-        
-        2. Los niveles freáticos de los acuíferos descienden considerablemente y los pozos deben ser profundizados para satisfacer las demandas agrícolas.
-        
-        3. Muchas turberas, en especial, las situadas en los ?Ojos de Guadiana? experimentan procesos de combustión espontánea.
-        
-        4. Algunos humedales pequeños, se han secado y transformado en tierras de cultivo; tal es el caso de las lagunas de la Nava, la Albuera, el Escoplillo y Navaseca.
-        
-        5. La zona húmeda del Parque Nacional de las Tablas de Daimiel ha disminuido su superficie. En la actualidad el Parqueen lugar de ser una zona de descarga de aguas subterráneas, es una gigantesca balsa de recarga artificial del acuífero 23.
-        
-        Otro de los problemas que afecta a estos humedales es la contaminación que están sufriendo por los continuos vertidos de agua residuales. Afortunadamente desde hace unos años muchos municipios cuentan ya con depuradoras de aguas residuales, que además cumplen con la función adicional de alimentar algunos humedales manteniendo un nivel de aguaadecuado durante más tiempo
-        
-        Otro de los problemas que afecta a estos humedales es la contaminación que están sufriendo por los continuos vertidos de agua residuales. Afortunadamente desde hace unos años muchos municipios cuentan ya con depuradoras de aguas residuales, que además cumplen con la función adicional de alimentar algunos humedales manteniendo un nivel de agua adecuado durante más tiempo.
-        Sin embargo, los vertidos realizados desde los años 50, han acumulado tal cantidad de nutrientes en los vasos de algunas lagunas (Laguna de la Veguilla en Alcázar de San Juan o Laguna del Pueblo en Pedro Muñóz).
-
-        Los bonales son humedales muy afectados por la actividad humana, especialmente los años secos. Los daños que reciben afectan a su régimen hidrológico, al suelo y a la cubierta vegetal que poseen. Las intervenciones que más perjudican a los bonales son las siguientes (García Río, R. 2001):  
-        
-        1. Extracción de agua para destinarla al riego de huertos y abastecimiento de fincas, piscinas y albercas. 
-        
-        2. Realización de obras hidráulicas para almacenar o evacuar el agua (drenajes, estanques, pozas, tomas subterráneas y abrevaderos).
-        
-        3.  Establecimiento de cultivos, como huertos, pastizales y plantaciones de chopos y eucaliptos. 
-        
-        4.  Quema de pajonales para mejorar el pasto. 
-        
-        5. Descepe de arbustos de orla, especialmente madroñeras, brezos y sauces.
-        
-        6. Pastoreo y ramoneo excesivos, tanto con especies domésticas (cabras, ovejas y vacas) como cinegéticas (ciervos y jabalís)
-        
-        7. Extracción de turba, que suele utilizarse como sustrato vegetal en jardines y macetas. 
-        
-        8. Vertido de residuos urbanos y cadáveres de ganados. 
-        
-        9. Recolección de escobillas y masiegas para hacer barrederos y escobillas, respectivamente
-                
-        A todos estos problemas habría que añadir los derivados de las actividades industriales, vertidos incontrolados de residuos, actividades agrícolas y cinegéticas, redes viarias y de comunicación, etc.. que afectan a los humedales en diversos grados, al alterar los hábitat naturales en los que viven las especies.
-
-        `,
-
-
-
-
-
-
-
+        Esta segunda definición es mucho más restrictiva ya que de ella se excluyen los ríos, los lagos y el medio marino. Es quizás por ello, que la propuesta en el Convenio Ramsar sea más intuitiva, ya que en ella quedan incluidos un amplio abanico de hábitat acuáticos y no acuáticos, en los que a veces es muy difícil establecer sus límites. Estos hábitat y humedales serían de tres tipos básicos: los costeros, los interiores y los artificiales.   `, 
+        parrafo2: `Los problemas ambientales que afectan a los humedales`,
         parrafo3:`Referencias
-
-
         Casado S., Montes C. 1995. Guía de los lagos y humedales de España. J.M. Reyero Editor. Madrid.
-        
-        D.O.C.M. 1999. Ley 9/1999 de Conservación de la Naturaleza. Diario Oficial de Castilla-La Mancha, 40: 4066-4091
-        
-        D.O.C.M. 2001. Decreto 199/2001 por el que se amplía el catálogo de hábitat de protección especial en Castilla La-Mancha y se señala la denominación sintaxonómica equivalente para los incluidos en el anejo 1 de la Ley 9/1999 de Conservación de la Naturaleza. Diario Oficial de Castilla-La Mancha, 119: 12814-12825.
-        
-        D.O.C.M. 1998. Decreto 33/1998 por el que se crea el catálogo regional de especies amenazadas. Diario Oficial de CastillaLa Mancha, 22:3391-3398.
-        
-        Forné, J., De la Hera, A. y Llamas, R. 1998. Cambios en el paisaje e impactos ecológicos causados por la explotación de aguas subterráneas en la Cuenca Alta del río Guadiana (España). Congreso Ibérico sobre Planificación y Gestión de Aguas(Zaragoza, 14-18.IX.98).
-        
-        García Río, R. 2001. Una ojeada a los bonales de Montes Norte. Medio Ambiente Castilla-La Mancha, 6: 10-15.
-        
-        González Bernáldez, F. 1992. Los paisajes del agua: Terminología popular de los humedales. J.M. Reyero Editor, Madrid Martín Herrero, J., Frontaura Sánchez Mayoral, Mª y Plaza Torres, F. 2004. Microrreservas: Una figura útil para la estrategiade conservación de la naturaleza. Medio Ambiente Castilla ?La Mancha 18:1-3.
-        
-        Ruiz López De La Cova, R. 2002. Humedales de Castilla-La Mancha. Medio Ambiente Castilla-La Mancha, 6: 28-39.`,
+         Ruiz López De La Cova, R. 2002. Humedales de Castilla-La Mancha. Medio Ambiente Castilla-La Mancha, 6: 28-39.`,
     },
-
-
-
     {
         titulo: " Pasea: senderismo, cultura y naturaleza con Ecologistas en Acción. Una propuesta de Educación Ambiental.",
         autor: "C. Lumbreras",
         descripcion: "Pasea es un programa de educación ambiental, impulsado desde la asociación Ecologistas en Acción de Salamanca, bajo el formato de senderismo y convivencia con el fin de poner en valor los rasgos naturales y culturales de Salamanca.",
-        img: "https://image.isu.pub/130710225348-c6b29be57a8a208f249d493841c03232/jpg/page_1.jpg",
+        img: "https://media.istockphoto.com/id/2148344625/es/foto/hand-holding-icon-of-earth-concept-day-earth-save-the-world-save-environment-ecology-concept.jpg?s=1024x1024&w=is&k=20&c=1wPAZCMN3S5OpSey-dyRSTMthum6buVf1_nXLsWaFO8=",
         url: "https://rua.ua.es/dspace/bitstream/10045/7906/1/ECO_14%283%29_15.pdf",
         
         parrafo1: `
         ¿Por qué el programa Pasea?
-
         Cuando a mediados del mes de mayo del dos mil dos desde la asociación Ecologistas en Acción de Salamanca nos planteamos la necesidad de estructurar una estrategia que reflejase de manera coherente las numerosas actividades de educación ambiental que desarrollábamos a lo largo del año, decidimos hacerlo en torno a un formato que, desde un ambiente lúdico y saludable y con una base de 'neutralidad' , nos permitiese alcanzar los objetivos planteados en toda estrategia de educación ambiental (Lumbreras, 1995): 
         Iniciar un proceso permanente y participativo de desarrollo personal y colectivo, para lograr la puesta en práctica de un modelo justo y solidario entre las personas, y su entorno. El formato de actividad elegido fue el del senderismo, y la denominación, que define plenamente la propuesta.
-        
         Una provincia de elevada calidad ambiental
-
-        En relación al primero de ellos, en Ecologistas en Acción de Salamanca (EeA-S, en adelante) sabemos bien que la provincia posee un patrimonio natural envidiable; y que los enclaves humanos, sus pueblos, y el patrimonio histórico-artístico asociado, en este espacio físico al que se adaptan perfectamente, hacen que en el conjunto provincial se pueda distinguir todo un entramado ambiental que merece ser conocido.
-
-        Una apuesta por la conservación
-
-        Otro de los conceptos clave que hemos tenido en cuenta a la hora de diseñar y desarrollar este programa de educación ambiental ha sido el de velar por la conservación y la proyección social. Desde el nacimiento de EeA-S, aunando la experiencia y el trabajo de diferentes grupos ecologistas de la provincia, se ha apostado por la educación ambiental como motor del mantenimiento del entorno. 
-        Ha sido así una de las acciones a la que se ha prestado especial atención, y, en loposible, con miras de mayor alcance: el trabajo por una conservación extendida a las generaciones futuras, o a los colectivos que nos acompañan de asociaciones o de profesorado, por citar algunos casos.
-        `,
+        En relación al primero de ellos, en Ecologistas en Acción de Salamanca (EeA-S, en adelante) sabemos bien que la provincia posee un patrimonio natural envidiable; y que los enclaves humanos, sus pueblos, y el patrimonio histórico-artístico asociado, en este espacio físico al que se adaptan perfectamente, hacen que en el conjunto provincial se pueda distinguir todo un entramado ambiental que merece ser conocido.`,
         parrafo2: `Con vocación de educación ambiental
-        
         De igual forma, destaca el efecto acordeón que puede alcanzarse con formadores, pues pensamos que Pasea ofrece una variada gama de posibilidades en excursiones y otros recursos aquí generados (en primera persona sobre determinados aspectos de la gea, o de la fauna, flora o de la arquitectura tradicional), Alcoceba, 2004), y que podrán ser incorporados al currículo escolar. De hecho, la educación, que en el campo de la conservación persigue metas comunes, puede integrar estas prácticas en su marco estratégico para evitar que se conviertan en algo periférico (cuando pretende formar individuos para vivir
         su actualidad), clarificando algo más (en estructuración como en la llamada ?filosofía del caminante?) a quien se sienta atraído por su desarrollo, al tiempo de poder enriquecerlas al impulsarlas desde edades tempranas. 
         En EeA de Salamanca perseguimos, en el horizonte, que esta actividad de senderismo e interpretación ambiental facilite la comprensión de un medio rico y variado, único e integral, para hacer de su valoración un requisito perdurable en la colaboración activa de la defensa del patrimonio de los senderistas participantes, sin distingos de procedencias, ni de edades e intereses.
-
         Pasea adopta el modelo de una actividad tan antigua como el hombre: el pasear por el campo y los pueblos, ejercitándola de una forma saludable y entretenida. Como actividad de senderismo va más allá del conocimiento (pensamiento) y del comportamiento (acción), al permitir poner en práctica el sentimiento. 
         Ligarse afectivamente a lo que nos rodea, por visitado y entendido, facilita el acercarse a los objetivos básicos que definen cualquier intervención educativa en el campo ambiental, pues Pasea busca, insistimos, ahondar en las relaciones compatibles con el medio y extenderlas a todas las relaciones. 
-        
         La posibilidad práctica de conjugar la observación y la interpretación tiene el denominador común del contacto directo con la naturaleza y con la cultura de forma entretenida como elemento motivador de cambios hacia una actitud de respeto hacia el medio. Hoy nadie duda de que el ocio y tiempo libre en la naturaleza, en nuestros pueblos y ciudades, son actividades requeridas con insistencia por todos los sectores de la sociedad`,
         
         parrafo3: `Objetivos del programa Pasea desde Ecologistas en Acción Salamanca pretendemos:
@@ -546,70 +175,27 @@ export const articulos = [
 
         2. Hacer del medio ambiente y del senderismo un punto de encuentro para la convivencia y el entretenimiento, con lo que
         poder desarrollar una conciencia ambiental en los salmantinos.
-        
-        3. Defender nuestros valores a través de una actividad lúdica y saludable (el paseo), con lo que la motivación permita la
-        implicación de todos y cada uno de los ciudadanos en poder modificar.
-        
-        Evaluación, en progreso, del programa Pasea
 
-        Hasta la fecha de hoy, tal y como apuntamos más arriba, en la asociación reina una buena sintonía en relación a lo que se perseguía, dada la excelente acogida, el agradable desarrollo y la buena demanda. 
-        Aunque pueda parecer presuntuoso por nuestra parte, los objetivos globales de desarrollo personal, de reconciliación con el entorno y de generar emociones, se han venido logrando con creces, al permitir, sin forzar, que las personas que nos han acompañado a lo largo de este curso hayan redescubierto en ellos mismos esa capacidad innata, y en muchos casos abandonada, de andar, y por extensión de sorprenderse. 
-        Sorprenderse de la belleza que todavía atesora el oeste peninsular, recorrido a golpe de suela a través de caminos singulares y por la toma de conciencia de primera mano de la fragilidad de este mismo medio natural, debido a las agresiones que viene padeciendo por las actividades incontroladas de una sociedad en la que, en tantas ocasiones, únicamente priman los beneficios económicos inmediatos.
-
-        Por sistematizar formalmente las aportaciones relevantes del programa que hemos descrito, incluimos a continuación las siguientes:
-
-        1. Está facilitando la identificación y el poder dimensionar la problemática ambiental en la provincia de Salamanca, en ocasiones muy compleja y de difícil comprensión, acercando a la población las consecuencias de nuestra manera de relacionarnos con el uso que se hace (hacemos) de los recursos.
-        
-        2. Está repercutiendo directamente en la mejora del entorno, y contribuyendo a reforzar y enriquecer las relaciones entre las personas participantes, de manera que influye directamente en el contexto de la educación ambiental.
-        
         3. Permite reforzar así la coherencia entre el discurso y la práctica de la asociación.
        
         4. Está ofreciendo una oportunidad de acción en el propio medio y con sus propias dificultades, que repercute más allá de los planteamiento teóricos y puede implicar o influenciar a otros colectivos, personas-actores de las zonas,...
         
         5. Constituye, por tanto, una buena ocasión para la discusión de puntos de vista y creencias con personas no vinculadas directamente a la preocupación ecológica, y para entreno en la construcción del necesario consenso participado.
-        
-        6. Pasea modela una macroestrategia de aprendizaje, transferible a otras situaciones.
-        
-        7. Propone, en consecuencia, un modelo de intervención en el medio cercano y en la dinámica de trabajo de la asociación, y lo hace de manera pedagógica, es decir, siguiendo pautas y etapas comprensibles y repetibles en otro contexto y situación (análisis, evaluación, propuesta de alternativas, discusión y consenso entre los interesados, adopción de un plan de acción que incluye compromisos individuales y colectivos, seguimiento, evaluación de los resultados y modificación, si es necesario, de aquellos compromisos...).
-       
-       
-       
-        8. Contribuye, además, a reforzar los sentimientos acerca de los acontecimientos para que los participantes, y los niños en particular, se sientan protagonistas de los valores de su provincia y sus amenazas y alternativas.
-       
-        9. Por fin, potencia relaciones de convivencia y cooperación entre los participantes e incrementa la implicación y responsabilidad de cada uno.
-
 
         Agradecimientos:
-
         La participación y la colaboración de todos nuestros compañeros de Ecologistas en Acción de Salamanca, con los que hemos podido recorrer buenos trechos de la provincia, así como los acompañantes y simpatizantes que se sintieron seducidos por Pasea, han sido también responsables del buen desarrollo de esta actividad de Educación Ambiental.
         No podemos olvidar, entre ellos, a Ángel Corral, quien con la mirada atenta, y la paciencia constante, ha registrado todas las instantáneas con su cámara, siendo el autor de las fotografías que aquí aparecen.
-
         Referencias
-
-        1. Lumbreras Vicente, C. J. 1995. La cuestión ambiental en el centro. Cuadernos de Pedagogía 236: 50-54.
-        
-        2. Consejería de Medio Ambiente, Junta de Castilla y León. 2004. Última propuesta de los LIC (Lugares de Importancia Comunitaria), enero 2004. www.jcyl.es/
-       
-        3. Alcoceba Hernando, J. A. 2004. La contribución de la comunicación pública al desarrollo social de la conciencia medioambiental. Ecosistemas (3): www.aeet.org/
-        
-        4. Lumbreras, C. y Fernández del Campo, J. L. 1995. El senderismo: otra forma de caminar. En Memoria primer curso de actores de la animación turística de la Sierra de Francia (ed. Caja Salamanca y Soria), pp. 165-182, Mogarraz (Salamanca).
-        
-        5. Riechmann, J. 2000. Inconsistencias, disonancias y bloqueos (atisbos psicológicos sobre la crisis ecológica). En Un mundo vulnerable.
-         Ensayos sobre ecología, ética y tecnociencia (ed. Los Libros de la Calatrava), pp. 69-94, Madrid.
-
-        `,
+        1. Lumbreras Vicente, C. J. 1995. La cuestión ambiental en el centro. Cuadernos de Pedagogía 236: 50-54.`,
     }
 ]
-
-
 export const revistas= [
     {
-        titulo: " Hacerse un lugar en las neurociencias con un animal no convencional",
-        subtema: "Sobre la relación entre lo local y lo global en los estudios de la ciencia y la tecnología",
-        autor: "Luana Ferroni",
-        descripcion: " La relación entre los procesos locales y globales en la producción y circulación de conocimiento científico se discute en el campo de los estudios de la ciencia y la tecnología en América Latina desde por lo menos la década de 1980.",
-        img: "https://image.isu.pub/151117125645-accc0a9d16ed2f6bc44248447783d076/jpg/page_1.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/354/310.pdf`,
+        titulo: " Diseño de exoesqueleto de tres grados de libertad para miembro superior ",
+        autor: "Rosales Ayala Khin",
+        descripcion: " Los exoesqueletos son sistemas robóticos que pueden ayudar a las personas que han sufrido lesiones o que tienen alguna discapacidad y que proveen movimiento y/o rehabilitación de algunos miembros del cuerpo.",
+        img: "https://media.istockphoto.com/id/1139441488/es/foto/robot-de-soldadura-en-el-proceso-la-producci%C3%B3n-de-soldadura-moderna.jpg?s=1024x1024&w=is&k=20&c=u8ADEzgU6Q_S8AGpMU_c8M8BJRDfwQS8YR-3fotFaBM=",
+        url: `https://www.mecamex.net/revistas/LMEM/revistas/LMEM-V09-N03-01.pdf`,
         
         parrafo1: `
         Introducción
@@ -696,12 +282,11 @@ export const revistas= [
     ,
 
     {
-        titulo: "Imagen, historia y ciencia",
-        subtema: "Estudio sobre el potencial iconográfico en el Instagram del Museo de Astronomía y Ciencias Afines (MAST)",
-        autor: "Heloisa Meireles Gesteira, Anderson Pereira Antunes",
-        descripcion: "Este artículo evalúa los resultados de un proyecto de divulgación sobre la historia de la ciencia y la tecnología realizado en el perfil oficial del Museo de Astronomía y Ciencias Afines (MAST) en la red social Instagram. Fueron presentadas las directrices de esta iniciativa, destacando la importancia del acervo iconográfico relacionado con la historia de la ciencia y la tecnología en Brasil.",
-        img: "https://www.curriculumnacional.cl/614/articles-84161_thumbnail.thumb_iNormal.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/362/320.pdf`,
+        titulo: "La didáctica de la educación superior con apoyo de la impresión 3D y el desarrollo de software ",
+        autor: "Candia García Filiberto",
+        descripcion: " El propósito de este trabajo es presentar los desarrollos didácticos realizados en software de código abierto y prototipado rápido en 3D mediante la técnica de modelado por deposición fundida",
+        img: "https://media.istockphoto.com/id/1412459598/es/foto/alta-precisi%C3%B3n-y-tecnolog%C3%ADa-de-dispositivo-de-boquilla-y-aguja-de-la-m%C3%A1quina-autom%C3%A1tica.jpg?s=1024x1024&w=is&k=20&c=LGKav99qC1sL5zTwMwaDmMKmmPstCA7drSSJdD8SmUY=",
+        url: `https://www.mecamex.net/revistas/LMEM/revistas/LMEM-V09-N03-02.pdf`,
         
         parrafo1: `Este artículo evalúa los resultados de un proyecto de divulgación sobre la historia de la ciencia y la tecnología realizado en el perfil oficial del Museo de Astronomía y Ciencias Afines (MAST) en la red social Instagram. Se presentan las directrices de esta iniciativa, destacando la importancia del acervo iconográfico relacionado con la historia de la ciencia y la tecnología en Brasil. Luego se realiza una encuesta cuantitativa en las redes sociales del museo, verificando el engagementde  los  posteos  producidos.  
         La investigación se centró en la recepción de los contenidos publicados en Instagram, por ser la red social preferida por el público del museo`,   
@@ -716,12 +301,11 @@ export const revistas= [
         Esta relación es particularmente relevante en la biología pesquera, ya que los investigadores trabajan por fuera de los laboratorios y en el lugar de otros: barcos, puertos, playas (Kohler, 2002).`,   
     },
     { 
-        titulo: "Maneras de hacer ciencia", 
-        subtema: "Sobre la posible diversidad epistémica en la investigación científica",
-        autor: "José Luis Luján",
-        descripcion: "Este artículo examina un nuevo tipo de tensión, identificada en el seno de la filosofía de las prácticas científicas, entre la pretensión de desarrollar una ciencia imparcial y el hecho aceptado de que en la ciencia se presuponen valores no epistémicos",
-        img: "https://www.tecnos.es/imagenes/libros/grande/9788430976065-filosofia-de-la-ciencia.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/559/473`,
+        titulo: "Implementación de un sistema cerebro – computadora para el control de un brazo robótico", 
+        autor: "Dávila Vallejo David Steeven",
+        descripcion: " La tecnología hoy en día avanza en todos los ámbitos, cuando se trata en ayudar a las personas con complicaciones médicas la ciencia no se queda atrás",
+        img: "https://media.istockphoto.com/id/521314999/es/foto/idea-de-tecnolog%C3%ADa.jpg?s=1024x1024&w=is&k=20&c=gj-LhMgDqXRlClcGGp8AyJpg0boxECyBCVF8X1aN_Qg=",
+        url: `http://www.mecamex.net/revistas/LMEM/revistas/LMEM-V09-N03-03.pdf`,
         
         parrafo1:`Tanto en el discurso público (políticos y medios de comunicación) como en el de la mayor parte de la población, cuando se refieren a la ciencia, se supone que, sea lo que sea eso llamado ciencia, es algo unitario. Debe haber alguna característica común a la física teórica y la ornitología, pongamos por caso. Además, se asume, en la ciencia prevalece el consenso y se comunica con la sociedad con una sola voz. Los medios de comunicación y los políticos utilizan de manera sistemática expresiones como “los expertos señalan que” (o dicen o afirman), “tomamos las decisiones que nos indican los expertos” (o los científicos o la ciencia, dependiendo de la retórica elegida). De acuerdo con esta conceptualización de la ciencia, parece que no haya controversias científicas, o que no sea posible la existencia de cuerpos alternativos de conocimiento que puedan calificarse al mismo tiempo como científicos.
         unque  he  comenzado  refiriéndome  a  la  imagen  de  la  ciencia  en  ámbitos  no académicos, lo cierto es que esta visión unitarista (o monista) de la ciencia posee raíces profundas en la cultura occidental. La mayor parte de los filósofos que históricamente han escrito sobre el conocimiento científico han asumido esta concepción. Y también quienes han defendido la idea de que la ciencia sería finalmente el motor del progreso humano la han compartido desde la Ilustración.
@@ -807,12 +391,11 @@ export const revistas= [
 
     },
     { 
-        titulo: "Imparcialidad y demarcación de valores en la actividad científica", 
-        subtema: "Ciencia y Tecnologia",
-        autor: "Juan Bautista Bengoetxea",
-        descripcion: "Este artículo examina un nuevo tipo de tensión, identificada en el seno de la filosofía de las prácticas científicas, entre la pretensión de desarrollar una ciencia imparcial y el hecho aceptado de que en la ciencia se presuponen valores no epistémicos",
-        img: "https://image.isu.pub/130321231458-fe6c4b8b3ce2420a83a3cd67e9ee7617/jpg/page_1.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/422/474.pdf`,
+        titulo: "Implementación de estrategias educativas en Ingeniería Robótica: Entorno Virtual", 
+        autor: "Granados Alejo Vignaud",
+        descripcion: "En el presente artículo se detalla lo referente al cambio de un ambiente de aprendizaje presencial a uno virtual, lo anterior derivado de la contingencia de salud actual por el coronavirus (COVID-19). ",
+        img: "https://media.istockphoto.com/id/1494202501/es/foto/retratos-de-robots-humanoides-que-se-ven-inteligentes-en-c%C3%B3digo-binario-y-s%C3%ADmbolo-de-circuito.jpg?s=1024x1024&w=is&k=20&c=CrebH9hgF2wvwmiu176TKr8hPKuYCacrWQOfl0U7II0=",
+        url: `http://www.mecamex.net/revistas/LMEM/revistas/LMEM-V09-N03-04.pdf`,
         
         parrafo1:`Este artículo examina un nuevo tipo de tensión, identificada en el seno de la filosofía de las prácticas científicas, entre la pretensión de desarrollar una ciencia imparcial y el hecho aceptado de que en la ciencia se presuponen valores no epistémicos. Para situarla en su contexto y comprender sus pormenores, presentamos primero el ideal que la subyace, el ICV (ciencia sin valores), cuya inconveniencia se reconoce ahora abiertamente en el ámbito de la filosofía de la ciencia acerca de los valores (epistémicos y no epistémicos), ante todo en el caso de la búsqueda de una imparcialidad mejorada. La variedad de estudios sobre valores, sin embargo, ha  permitido  plantear  un  nuevo  problema  de  demarcación,  situado  ahora  en  contextos  de incertidumbre y riesgo, centrado en la legitimidad (o ilegitimidad) de los valores que presuponen las actividades cognitivas. En este contexto surge el nexo entre los valores y la cuestión de un conocimiento pretendidamente imparcial, para el que proponemos un intento de solución. 
         
@@ -891,14 +474,13 @@ export const revistas= [
 
 
     { 
-        titulo: "Tecnociencia feminista", 
-        subtema: "Una propuesta de demarcación",
-        autor: "Inmaculada Perdomo Reyes",
-        descripcion: " El reciente debate sobre la viabilidad de diseñar un nuevo criterio de demarcación para limitar el papel de los valores no deseados en la práctica tecnocientífica aborda diferentes estrategias. Se presenta como punto de partida que este problema no puede ser delimitado con criterios de demarcación fijos, ya que el rol de los valores es una cuestión abierta, contextual y sujeta a la evaluación crítica y situada",
-        img: "https://image.isu.pub/170527204151-5748de3923b0f7fc630cb47ef4642bf5/jpg/page_1.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/424/482.pdf`,
+        titulo: "Sistema de identificación paramétrica para motores de corriente directa ", 
+        autor: "Hernández Paredes José Migue",
+        descripcion: "En el presente artículo se muestra un sistema para la identificación de los parámetros que describen la función de transferencia de un motor de corriente directa",
+        img: "https://media.istockphoto.com/id/610035664/es/foto/posici%C3%B3n-de-la-distribuci%C3%B3n-del-gas-en-una-central-nuclear-la-turbina.jpg?s=1024x1024&w=is&k=20&c=oMbM4xDp55xHatSyt7VoPxzmDINW-Gx53KO0PHxcRFc=",
+        url: `https://www.mecamex.net/revistas/LMEM/revistas/LMEM-V08-N03-02.pdf`,
        
-        parrafo1:` Tecnociencia feminista. 
+        parrafo1:` 
         
         Una propuesta de demarcación *Tecnociência feminista. Uma proposta de demarcaçãoFeminist Technoscience. A Demarcation ProposalInmaculada Perdomo Reyes     **El reciente debate sobre la viabilidad de diseñar un nuevo criterio de demarcación para limitar el papel de los valores no deseados en la práctica tecnocientífica aborda diferentes estrategias. Se presenta como punto de partida que este problema no puede ser delimitado con criterios de demarcación fijos, ya que el rol de los valores es una cuestión abierta, contextual y sujeta a la evaluación crítica y situada. En este artículo se propone recuperar algunos de los resultados de la filosofía feminista de la ciencia para avanzar en un marco general de propuestas y estrategias que, de forma combinada y desde una perspectiva filosófica pragmatista, puedan incrementar el rigor, integridad y confiabilidad de la práctica tecnocientífica, y dirigirla hacia metas ética y democráticamente defendibles.
         
@@ -992,18 +574,16 @@ export const revistas= [
     },
 
     { 
-        titulo: "Epistemología política", 
-        subtema: "Ciencia con la gente",
-        autor: "Cecilia Hidalgo",
-        descripcion: " La ciencia posnormal (CPN) emerge alrededor de 40 años atrás, contrastando con la actividad científica descripta por Thomas Kuhn como “normal”. La CPN plantea la extensión democrática del derecho al conocimiento que potencia la calidad de la evidencia tecnocientífica en los procesos de decisión para la acción política",
-        img: "https://image.isu.pub/180508035013-0a73672afa2be44c4df85bde06ac3d74/jpg/page_1.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/454/478.pdf`,
+        titulo: "Análisis y diseño de un convertidor Buck-Boost", 
+        autor: "Flores Torres Ángel David,",
+        descripcion: "En el presente artículo se aborda el diseño de un convertidor Buck-Boost en la conversión de una señal de 12 Volts a 10 volts de CD provenientes de un módulo fotovoltaico por medio del método de diseño descriptivo en su primera y segunda fase, empleando el entorno de cálculo técnico Matlab",
+        img: "https://media.istockphoto.com/id/1084703772/es/foto/doble-mecanismo-de-engranajes-la-exposici%C3%B3n-de-fondo-borroso-negocio-y-concepto-de.jpg?s=1024x1024&w=is&k=20&c=AqTA5MPTEacW6hVsz4DRZ_NzO-usd2IFgmhOkWJJx_Y=",
+        url: `http://www.mecamex.net/revistas/LMEM/revistas/LMEM-V08-N02-02.pdf`,
+       
         parrafo1:` La  ciencia  posnormal  (CPN)  emerge  alrededor  de  40  años  atrás,  contrastando  con  la  actividad científica descripta por Thomas Kuhn como “normal”. La CPN plantea la extensión democrática del derecho al conocimiento que potencia la calidad de la evidencia tecnocientífica en  los  procesos  de  decisión  para  la  acción  política.  La  CPN,  como  ciencia  de  la  anticipación  responsable, reconoce como paritario el conocimiento creado histórica y culturalmente fuera del ámbito científico. Cuatro características definen a la CPN: los hechos son inciertos; existe una pluralidad de valores, usualmente en conflicto; lo que se pone en juego es potencialmente muy elevado; y las decisiones son urgentes. El interés por la CPN se ha intensificado en los últimos años ante los problemas planteados por los desafíos del clima, la biodiversidad, la sostenibilidad y la pandemia del COVID-19, que ilustran las cuestiones políticas y prácticas que preocupan a la sociedad.
-        
         Palabras clave: incertidumbre; calidad; complejidad; ambigüedad; posnormal 
 
         Introduccion
-
         A principios de los años 80, reflexionando acerca de una serie de cuestiones prácticas y políticas complejas que se traducen en problemas tecnocientíficos igualmente complejos, Silvio Funtowicz y Jerry Ravetz comenzaron a desarrollar lo que hoy se denomina ciencia posnormal (CPN). Lejos de ser simples o meramente complicados, tales problemas se muestran “malvados” (wicked):  son  ambiguos  e  implican  cuestiones  decisionales.  Para enfrentarlos, se debe trabajar con la diversidad y pluralidad de perspectivas, con la incertidumbre, la indeterminación e incluso la ignorancia. En sus primeros trabajos, Funtowicz  y  Ravetz  elucidaron  las  dificultades  que  se  plantean  cuando  la  ciencia debe enfrentar el desafío de las cuestiones políticas en contextos de incertidumbre y complejidad (Rayner y Sarewitz, 2021). Para ello, acuñaron el término “posnormal” en claro contraste con la actividad científica ordinaria de las ciencias maduras descripta por Thomas Kuhn como “ciencia normal” e identificaron las siguientes características de los problemas que definen a la CPN: los hechos son inciertos; existe una pluralidad de valores, usualmente en conflicto; lo que se pone en juego es potencialmente muy elevado y las decisiones son urgentes (Funtowicz y Ravetz, 1993, 2000, 2020). En un comienzo pensaron en la denominación “transciencia” para no dar idea de temporalidad ni que la propuesta quedara asociada a la posmodernidad, pero, como ese término ya había sido empleado por Alvin M. Weinberg (1972), optaron por “posnormal”, pues la obra de Kuhn era muy conocida. En países de habla castellana, el Centro Editor de América Latina publicó tempranamente sus primeros artículos, en una colección con amplia tirada (aproximadamente 3000 ejemplares) que se distribuían en los puestos de diarios además de en las librerías
 
         En la perspectiva de la CPN juega un rol fundamental la crítica general al rol de justificación y legitimación que el modelo moderno de decisión atribuye a la ciencia dentro  del  proceso  decisional.  La  estrategia  de  resolución  de  problemas  (simples),  estrechamente vinculado al sistema de legitimación de la acción política del Estado moderno que surge en Europa a partir de los tratados de paz de Westfalia en 1648, puso  a  la  ciencia  en  un  lugar  central  como  insumo  privilegiado,  atribuyéndole  la capacidad  de  proporcionar  evidencia  cuantitativa,  objetiva  y  neutral.  El  modelo moderno de resolución de problemas suponía la estricta separación entre hechos (el territorio de la ciencia) y valores (el territorio de la gobernanza), y concebía un proceso en el que, obtenida la verdad, se procedía a la acción política para el bien común. La idea  es  sencilla:  a)  cualquier  problema  práctico-político  se  puede  traducir  como  un  problema técnico-científico; y b) la resolución del problema técnico-científico resuelve el problema práctico-político
@@ -1052,105 +632,20 @@ export const revistas= [
 
     },
 
-    { 
-        titulo: "Hipótesis científicas y políticas epistémicas", 
-        subtema: "El impacto de los factores contextuales en la generación de conocimiento científico",
-        autor: "Roberto López-Mas",
-        descripcion: "Desde los años 60, la ciencia reguladora se entiende como el ámbito científico que genera conocimiento relevante para diseñar y evaluar políticas públicas y prácticas reguladoras. Este ámbito presenta diferencias epistémicas respecto de la ciencia académica estándar, debido a la existencia de factores contextuales particulares.",
-        img: "https://image.isu.pub/161027185855-3df9472c6b2484d1e6c11a0612b6f52c/jpg/page_1.jpg",
-        parrafo4: `https://ojs.revistacts.net/index.php/CTS/article/view/429/479.pdf`,
-
-        parrafo1:`Desde los años 60, la ciencia reguladora se entiende como el ámbito científico que genera conocimiento  relevante  para  diseñar  y  evaluar  políticas  públicas  y  prácticas  reguladoras.  Este  ámbito  presenta  diferencias  epistémicas  respecto  de  la  ciencia  académica  estándar,  debido  a  la existencia de factores contextuales particulares. Estos incluyen elementos como una mayor implicación de agentes externos, variaciones en los recursos disponibles, notable susceptibilidad ante  valores  no  epistémicos  o  la  presencia  de  agencias  reguladoras  y  sus  procedimientos  asociados. Los factores contextuales conllevan la aplicación de determinados cursos de acción para la práctica científica conocidos como políticas epistémicas, que establecen estándares y cargas de la prueba no coincidentes con los de la ciencia académica. En última instancia, estas particularidades conducen a la aceptación de hipótesis diferentes y, por lo tanto, al establecimiento de distintos contenidos científicos.
-        
-        Palabras  clave: ciencia reguladora;  políticas epistémicas; estándar de la prueba; carga  de  la  prueba; hipótesis científicas.
-        
-        Introducción
-        
-        A lo largo de la historia, las decisiones políticas que concernían a la población fueron tomadas de manera autocrática, sin que la ciencia tuviese ningún rol en ellas (Moghissi  et  al., 2014). Sin embargo, tanto la consolidación de la democracia como el avance tecnológico propiciaron, desde  comienzos del siglo XX, un debate  sobre el rol que la ciencia podía tener en la consecución del bienestar social (Luján & López Cerezo, 2004). La vertiente tecnocrática abanderada por Vannevar Bush (1945) triunfó, emergiendo una confianza ciega en la idea de que la ciencia básica repercutiría positivamente en la sociedad a través de sus aplicaciones. Esta situación se mantuvo hasta los años 60, momento en el que las presiones sociales, fruto de las  controversias  en  torno  a  la  energía  nuclear,  generaron  una  toma  de  conciencia  con respecto a los posibles impactos negativos que entrañaba la tecnología (Luján, 2023). En este contexto, la respuesta institucional se basó en la formación de diversas agencias encargadas de asegurar que los beneficios de los productos tecnológicos eran obtenidos, al tiempo que se evitaban los riesgos (Jasanoff, 1990, pp. 2-3). Para ello, se reveló como necesario el uso de información científico-técnica
-
-        La ciencia reguladora se consolidó como la fuente de dicha información. Este ámbito se entiende desde entonces como el campo que genera conocimiento relevante para definir políticas públicas o prácticas reguladoras (Jasanoff, 1990, 2011; Sanz-Merino & Luján, 2021; Luján, 2023). Con este objetivo, se pueden llevar a cabo modelos interpretativos o análisis de impactos ambientales, siendo las actividades  más destacadas la evaluación de riesgos y la evaluación de beneficios. Mediante la realización de nuevos estudios empíricos o síntesis de datos, los agentes reguladores buscan decidir en qué medida las tecnologías reguladas producen un riesgo o un beneficio significativo. Si bien el término regulatory science se utiliza desde la década de 1970 (Moghissi et al., 2014) y algunas instituciones como el Instituto de la Ciencia Reguladora -Institute for Regulatory Science- existen desde 1985, no fue hasta 1990 que se propuso el primer análisis del concepto. Desde una perspectiva de la sociología del conocimiento científico, en The fifth branch (1990), Sheila Jasanoff lo caracterizó como un nuevo ámbito científico. Desde entonces, el interés por la ciencia reguladora ha ido creciendo, resaltando en este aspecto el nacimiento de la International Journal of Regulatory Science en 2013
-        
-        En este artículo, nos planteamos si este tipo de ciencia es sustancialmente diferente de la ciencia académica tradicionalmente investigada en la filosofía. Para abordar esta cuestión, utilizamos fuentes bibliográficas provenientes de distintos ámbitos, tales como estudios filosóficos de corte teórico, trabajos científicos o regulaciones de  productos  tecnológicos: medicamentos, alimentos con declaraciones de salud o sustancias tóxicas. Nuestro objetivo es identificar y caracterizar algunos aspectos contextuales definitorios de la ciencia reguladora, así como analizar su impacto en el resto de los elementos epistémicos del proceso de generación de conocimiento.
-
-        Para ello, en la primera sección, examinamos: la influencia de los agentes externos; la disponibilidad de determinados recursos. Estos constituyen dos factores contextuales  diferenciales de la ciencia reguladora tradicionalmente identificados en la literatura.
-         
-        En la segunda sección, planteamos dos elementos  adicionales: el papel de los valores no epistémicos; y la presencia de agencias reguladoras y sus procedimientos asociados. Después, en la tercera sección, analizamos la relación de estos factores contextuales con las políticas epistémicas y, en concreto, investigamos cómo los primeros pueden conducir a la modificación de los estándares y la carga de la prueba. En la cuarta sección, examinamos el modo en el que estas diferencias entre la ciencia académica y la ciencia reguladora conducen a distinciones en  lo  referente  a  las hipótesis confirmadas. Concluimos que las divergencias en los elementos contextuales de ambos ámbitos afectan a su contenido mediante las políticas epistémicas, llegando a establecer en ocasiones conclusiones opuestas -una hipótesis científica puede considerarse confirmada en la ciencia académica, pero no en la ciencia reguladora, y viceversa
-        `, 
-
-        parrafo2:`
-        1. El estatuto epistémico de la ciencia reguladora
-        
-        El concepto de “ciencia reguladora” ha recibido en los últimos años especial atención por parte de diversos investigadores y agencias. No obstante, el término no siempre se usa en el mismo sentido. Para Jasanoff (2011), la ciencia reguladora posibilita -pero no incluye- las políticas científicas y, por lo tanto, no se debería confundir con la toma de decisiones reguladoras. Sin embargo, en Japón, el concepto de ciencia reguladora puede ser considerablemente más amplio (Jasanoff, 2011). En este caso, el conocimiento relativo al proceso de toma de decisiones se podría entender como parte de la propia ciencia reguladora. En Estados Unidos y en Europa, varias agencias (Administración de Alimentos y Medicamentos -Food and Drug Administration- o la Agencia  Europea  de  Medicamentos  -European  Medicines  Agency-)  adoptan  un concepto de ciencia reguladora que también se aleja del propuesto por Jasanoff (Moghissi et  al., 2014; Torres González & López Echagüe, 2022). En esta línea, la definición ofrecida por la Agencia de Protección Ambiental de los Estados Unidos -Environmental  Protection  Agency-  podría  considerarse  paradigmática.  “Ciencia reguladora  significa  información  científica,  incluyendo  evaluaciones,  modelos, documentos relativos a criterios, y análisis del impacto regulador, que constituyen la base de las decisiones reguladoras relevantes tomadas finalmente por la EPA” (EPA, 2018, p. 18773)
-
-        La  ciencia reguladora incluye conocimiento  de  múltiples  áreas,  tales  como  las  ciencias  naturales,  biomédicas  o  sociales  (Song et  al.,  2022).  De  hecho,  se  ha  planteado  que  podría  haber  un  campo  regulador  correspondiente  a  cada  área científica utilizada en los procesos reguladores: farmacología reguladora, toxicología reguladora,  ecología  reguladora  (Moghissi  et  al., 2014). En este sentido, un rasgo característico  de  la  ciencia  reguladora  es  que  su  objeto  de  estudio  se  identifica con la tecnología regulada. Este ámbito no presenta un objeto de estudio que se pueda considerar propio, en la medida en que los productos científico-tecnológicos regulados también son investigados desde la ciencia académica. Por ejemplo, antes de que surgiera la farmacología reguladora, ya existía la farmacología como ciencia encargada de estudiar los efectos fisiológicos de los medicamentos. Del mismo modo, en la investigación en nutrición, ha habido una larga tradición anterior al desempeño de cualquier función reguladora.10.52712/issn.1850-0013-429
-
-        1.1. Los agentes implicados En  la  ciencia  reguladora,  tanto  las  decisiones  epistémicas  como  las  decisiones  no  epistémicas dependen en gran medida de los gobiernos, la industria y otros agentes externos (Jasanoff, 1990, p. 78). La ciencia reguladora puede estar sometida en mayor medida a las coacciones y los intereses de actores externos, que pueden buscar influir en los procesos reguladores. En este sentido, se ha defendido que las metodologías utilizadas en la confirmación de hipótesis deben ser resistentes a la presión externa (Andreoletti  &  Teira,  2019;  Teira,  2020).  En  la  ciencia  académica,  en  cambio,  la comunidad científica tiene un mayor protagonismo en la toma de decisiones. Esto no significa que los científicos sean libres de escoger cualquier método de investigación o trabajen de un modo asocial
-     
-        1.2. Los recursos disponibles Jasanoff señala que el tiempo es un elemento diferenciador entre la ciencia académica y la ciencia reguladora. En determinadas circunstancias, se pueden requerir datos con urgencia para la toma de decisiones reguladoras. Por ejemplo, cuando hay una emergencia social, económica o de salud, retrasar la toma de decisiones puede ser inviable, por lo que los científicos reguladores deben llegar a conclusiones en un plazo de tiempo muy limitado (Rodríguez-Alcázar, 2004). En cambio, el tiempo disponible en la ciencia académica suele estar ligado a los propios proyectos de investigación, por lo que su relación con elementos externos es menos directa. Factores como los calendarios establecidos en los planes de trabajo o la financiación disponible tienen un mayor peso en la ciencia académica.
-
-        2. Los valores contextuales y las agencias reguladorasLos factores examinados por Jasanoff son fundamentales en el análisis de la ciencia reguladora, pues acentúan elementos contextuales que, en último término, pueden contribuir a que se genere una ciencia distinta. Sin embargo, este estudio puede considerarse insuficiente. Por ello, es necesario resaltar otras diferencias, como el papel de los valores contextuales o el rol de las agencias y sus procedimientos
-
-        2.1. Los valores contextuales En filosofía de la ciencia se suele realizar una distinción básica entre los valores epistémicos  y  los  valores  no  epistémicos  o  contextuales  (Douglas,  2009;  Hansson,  2010; Todt & Luján, 2014, 2017c). Mientras que los primeros son valores directamente relacionados  con  el  conocimiento,  los  segundos  hacen  referencia  a  elementos  situacionales de la actividad científica, tales como aspectos sociales, económicos o políticos. Ejemplos de valores epistémicos serían la verdad o la certeza. Por otro lado, la  protección  de  la  población  o  el  impulso  al  desarrollo  económico  y  social  serían  ejemplos de valores contextuales. En los últimos años, se ha extendido la idea de que los valores contextuales son relevantes en todo el proceso de la investigación científica, tanto académica como reguladora (Douglas, 2007; Holman & Wilholt, 2022; Koskinen & Rolin, 2022). No obstante, esto no significa que estos valores tengan el mismo papel en ambos ámbitos
-
-        En la ciencia reguladora, los valores contextuales son definidos primordialmente como  objetivos  a  alcanzar.  Por  ejemplo,  la  protección  de  la  salud  pública  y  del medioambiente  puede  ser  un  valor  central  en  las  regulaciones  de  los  productos  tóxicos
-
-        2.2. Las agencias reguladoras y sus procedimientos Aunque en los primeros estudios sobre ciencia reguladora ya se apuntaba a la existencia de agencias y comités científicos (Irwin et al., 1997; Jasanoff, 1990; Moghissi et al., 2014), solo recientemente se está considerando su rol diferenciador con respecto a la ciencia académica (Luján, 2023). Esta última se realiza fundamentalmente en universidades  y  centros  nacionales  o  internacionales  de  investigación  (Consejo Superior  de  Investigaciones  Científicas  o  Centro  Nacional  para  la  Investigación Científica -Centre National de la Recherche Scientifique-) con reglas convencionales heredadas  del  desarrollo  de  la  tradición  investigadora
-        `, 
-
-        parrafo3:` Las políticas epistémicas en la ciencia 
-        
-        La ciencia reguladora y la ciencia académica presentan importantes diferencias en el contexto de su desarrollo. Nuestra tesis es que estas diferencias, en última instancia, conducen  a  contenidos  distintos:  las  conclusiones  establecidas  en  los  dos  ámbitos  pueden  diferir,  llegando  a  ser  opuestas.  Los  factores  contextuales  no  determinan  directamente qué hipótesis científicas son aceptadas o rechazadas en la ciencia
-
-        3.1. Los estándares de prueba El estándar de prueba determina el nivel y el tipo de evidencia suficiente para la aceptación de una hipótesis científica. En la ciencia reguladora, el nivel de prueba no  es  idéntico  en  todos  los  casos;  es  decir,  no  siempre  se  exige  el  mismo  grado  de seguridad en la actividad científica. En un marco regulador concreto, el nivel de incertidumbre tolerado puede ser relativamente bajo, sobre la base de los valores contextuales adoptados. De este modo, un determinado objetivo regulador puede requerir  el  establecimiento  de  conclusiones  científicas  con  un  grado  elevado de seguridad. En cambio, otros objetivos solo serían alcanzables con un nivel de evidencia más bajo, incorporando más incertidumbre en la confirmación de hipótesis
-
-        3.2. La carga de la pruebaAdemás de los estándares de prueba, las políticas epistémicas también cuentan con la carga de la prueba como elemento central. La carga de la prueba tiene que ver con el agente epistémico encargado de presentar la información científica acorde al estándar elegido. A su vez, incide en el tipo de conocimiento considerado pertinente (Luján & Todt, 2022; Sanz-Merino & Luján, 2021, p. 97). Mientras que la carga de la prueba en la ciencia académica suele recaer en los propios científicos encargados de probar la verdad de su hipótesis, la situación en la ciencia reguladora adquiere mayor complejidad, pues depende también de los objetivos contingentes de la regulación
-        
-        4. La confirmación de hipótesisJasanoff (1990) sostiene que, con respecto al contenido, la ciencia reguladora se entendería como la combinación de tres tipos de actividad científica: producción de conocimiento,  síntesis  de  conocimiento  y  predicción.  En  este  apartado,  planteamos  que  estos  tipos  de  actividad  no  constituyen  por  sí  mismos  elementos  distintivos entre  la  ciencia  académica  y  la  ciencia  reguladora.  Más  bien,  las  diferencias  entre  ambos  ámbitos  se  encontrarían  en  las  conclusiones  establecidas  mediante  las  políticas  epistémicas  elegidas.  En  este  punto,  no  hacemos  referencia  a  la  totalidad  del contenido de la ciencia, sino a una parte específica: las hipótesis confirmadas. La evaluación de afirmaciones como “el medicamento es eficaz y seguro” o “la sustancia química es peligrosa” es básica en los marcos reguladores. En términos generales, la confirmación de hipótesis tiene un papel central en la ciencia actual. En esta línea, considerar una hipótesis científica como confirmada no significa que sea infalible o no se pueda poner en cuestión, sino que se dispone de evidencia adecuada y suficiente para apoyarla. 
-        
-        Conclusiones
-        
-        La  caracterización  de  la  ciencia  reguladora  como  un  ámbito  distinto  a  la  ciencia  académica supone un reto significativo. Esto se debe a que el concepto de “ciencia reguladora” recoge una multiplicidad de factores a considerar, como diversos objetos de estudio, metodologías científicas, agentes sociales o valores posibles. Nuestra propuesta puede reflejar diferencias relevantes entre la ciencia reguladora y la ciencia académica  incorporando  esta  variedad  de  elementos.  Los  estándares  y  criterios  de  la ciencia tradicional no se mantienen necesariamente en la práctica reguladora. Las diferencias en elementos contextuales generan diferencias en el contenido -hipótesis confirmadas y tipo de contenido de estas- a través de la influencia de las políticas epistémicas.
-
-        Aunque suficiente para mostrar la distinta naturaleza de la ciencia reguladora con respecto  de  la  académica,  nuestra  caracterización  podría  considerarse  incompleta.  No  obstante,  el  modelo  propuesto  tiene  la  virtud  de  permanecer  abierto  a  nuevas  aportaciones que identifiquen: a) nuevos elementos contextuales; b) aspectos no analizados  de  las  políticas  epistémicas;  c)  una  parte  del  contenido  de  la  ciencia  no  estudiado  en  este  artículo;  o  d)  nuevas  interrelaciones  entre  factores  epistémicos  y  factores no epistémicos. Por lo tanto, nuestra propuesta se podría ampliar en futuros trabajos que examinen otros aspectos concretos de la ciencia reguladora
-
-        Bibliografía
-
-        Aggett,  P.  J.  (2012).  Dose-response  relationships  in  multifunctional  food  design: assembling the evidence. International Journal of Food Sciences and Nutrition, 63(S1), 37-42. DOI: 10.3109/09637486.2011.636344.
-        
-        Andreoletti, A. & Teira, D. (2019). Rules versus standards: what are the costs of epistemic norms in drug regulation? Science, Technology, & Human Values, 44(6), 1093-1115. DOI: 10.1177/0162243919828070.
-
-        Blumberg, J., Heaney, R. P., Huncharek, M., Scholl, T., Stampfer, M., Vieth, R., Weaver, C. M. & Zeisel, S. H. (2010). Evidence-based criteria in the nutritional context. Nutrition Reviews, 68(8), 478-484. DOI: 10.1111/j.1753-4887.2010.00307.x.
-        
-        Bush,  V.  (1945).  Science  –  The  endless  frontier.  Washington:  National  Science Foundation. 
-        
-        Chieffi, D., Fanelli, F. & Fusco, V. (2022). Legislation of probiotic foods and supplements. En E. L. de Souza, J. L. de Brito Alves & V. Fusco (Eds.), Probiotics for human nutrition in health and disease (25-44). Cambridge: Academic Press. DOI: 10.1016/B978-0-323-89908-6.00013-3.
-
-        `, 
-
-
-
-
-
-
-    },
 ]
 export const tecnologias= [
     {
-        titulo: "Competencias para la enseñanza-aprendizaje de la bibliotecología y la ciencia de la información en la sociedad digital", 
-        subtema: "Revista e-Ciencias de la Información",
-        autor: "Sandro dos Reis Andrade , José André Villas Boas Mello",
-        descripcion: "Este estudio tiene como objetivo realizar un estudio bibliométrico con el que se puedan identificar tendencias temáticas y/o el estado del arte de la investigación sobre turismo de base comunitaria.",
-        img: "https://image.isu.pub/160611163620-7423264f064209f61eb12a9b16a6ea70/jpg/page_1.jpg",
+        titulo: "Competencias para la enseñanza-aprendizaje de la bibliotecología y la ciencia de la información en la sociedad digital",
+        autor: "JOHANN PIRELA MORILLO",
+        descripcion: "Se proponen seis competencias docentes que deben desarrollar los docentes de Bibliotecología y Ciencia de la información, como formadores de los profesionales de  la información requeridos para apalancar procesos de desarrollo sostenible en el contexto de las actuales sociedades digitales.",
+        img: "https://media.istockphoto.com/id/1141749740/es/foto/concepto-de-investigaci%C3%B3n-m%C3%A9dica-en-el-campo-de-la-virolog%C3%ADa-y-el-c%C3%A1ncer-mol%C3%A9cula-de-adn-con.jpg?s=1024x1024&w=is&k=20&c=u6yQ-inY4Gb429Xwcr-o7_m0PxDZdCf-g1GALHMim2U=",
         url: "https://ru.iibi.unam.mx/jspui/bitstream/IIBI_UNAM/CL193/1/07_investigacion_bibliotecologica_problemas_johann_pirella_morillo.pdf",
 
 
         parrafo1: `
-        Resumen: 
-        
+
         Este estudio tiene como objetivo realizar un estudio bibliométrico que permita identificar tendencias temáticas y el estado del arte de la investigación sobre turismo comunitario. En los últimos años se ha intensificado la atención sobre el crecimiento de la actividad turística, especialmente en el desplazamiento de visitantes que abandonan su lugar habitual para descubrir nuevos lugares en busca de aventura, ocio, descanso, investigación y atención sanitaria. Para este estudio, el tema ("turismo" y ("turismo comunitario" o "comunidades tradicionales")) se seleccionó de la colección principal de Web of Science. Se encontrarán 370 documentos en el período de 1995 a 2021. Con el estudio de palabras clave, es posible resaltar que temas relacionados con el desarrollo, el ecoturismo, la resiliencia y las desigualdades, pueden sugerir que la agenda de investigación comience a buscar explicaciones que el Turismo puede causar. horrores a través de los visitantes en el contenido de visita más simple, como contenido basado en la comunidad.
-
         Palabras clave: Turismo, Turismo comunitario, Bibliometría, Turismo comunitario.
-
         Introduccion 
 
         En los últimos años se ha intensificado la atención sobre el crecimiento de la actividad turística, especialmente en el movimiento de visitantes que abandonan su lugar habitual para visitar nuevos lugares en busca de aventura, ocio, descanso, investigación y atención de la salud ( Polat & Öztürk, 2021 ; Carvache-Franco et al., 2022 ; Robina -Ramírez et al , 2022 ; El turismo se destaca en el escenario económico como una importante fuente de divisas en los lugares donde se desarrolla ( Braga et al., 2022 ), generando beneficios directos para la comunidad, como la inserción en el mercado laboral, el emprendimiento, los vínculos sociales y culturales. para los actores involucrados.
@@ -1234,10 +729,9 @@ export const tecnologias= [
     },
     {
         titulo: "El uso del Método Design Thinking en la investigación aplicada para integrar la biblioteca en plataformas.", 
-        subtema: "Revista e-Ciencias de la Información",
-        autor: "Purísima Centeno Alayón",
-        descripcion: "Este trabajo tuvo como objetivo integrar los servicios y recursos bibliotecarios más solicitados en las plataformas.",
-        img: "https://image.isu.pub/170527204151-5748de3923b0f7fc630cb47ef4642bf5/jpg/page_1.jpg",
+        autor: "Ticona Bejarano",
+        descripcion: "El presente artículo presenta la aplicación de Design Thinking en el área de requerimientos de software para ayudar y solucionar algunos problemas que existen en el desarrollo de software",
+        img: "https://media.istockphoto.com/id/1663265275/es/foto/un-hombre-utiliza-tecnolog%C3%ADa-de-computaci%C3%B3n-en-la-nube-en-su-computadora-port%C3%A1til-para-la.jpg?s=1024x1024&w=is&k=20&c=WMcu1hovSzMe1-S78jHC_j620drKXCtxgEYYvcfQmtw=",
         url: "https://www.redalyc.org/journal/6738/673870838004/673870838004.pdf",
 
         parrafo1: `Las bibliotecas académicas apoyan las actividades educativas y académicas en las instituciones de educación superior mediante la provisión de colecciones, servicios y educación de usuarios que apoyan la enseñanza, el aprendizaje y la investigación para ayudar a los estudiantes a tener éxito en su experiencia de aprendizaje (Curzon, & Quiñónez-Skinner, 2016, p. 1-13) . Integrar el acceso a los servicios de la biblioteca y a los recursos bibliográficos en los cursos de aprendizaje a distancia es necesario para proporcionar una experiencia de enseñanza-aprendizaje enriquecedora (Gibault, 2018, p. 193) . 
@@ -1272,12 +766,11 @@ export const tecnologias= [
     },
 
     {
-        titulo: "Formación continua en el procesamiento técnico de la información.", 
-        subtema: "Revista e-Ciencias de la Información",
-        autor: "Iria Briceño Álvarez, Desiree Rodríguez Calvo",
-        descripcion: "El presente estudio describe el proceso de formación continua en procesamiento técnico de la información de los cursos de capacitación ofertados desde la Escuela de Bibliotecología y Ciencias de la Información (EBCI) de la Universidad de Costa Rica (UCR)",
-        img: "https://image.isu.pub/121121170642-48f38b09d7044097b3162e0191bc255e/jpg/page_1.jpg",
-        url: "https://www.scielo.cl/pdf/rexe/v18n36/0718-5162-rexe-18-36-209.pdf",
+        titulo: "Mejores Prácticas en Proyectos de Ingeniería Mecatrónica", 
+        autor: "Vargas J.E., Gorrostieta E",
+        descripcion: "El presente artículo muestra una síntesis de las mejores prácticas en proyectos de ingeniería mecatrónica que por poco más de 20 años de experiencia profesional han efectuado los autores",
+        img: "https://media.istockphoto.com/id/478469116/es/foto/ordenador-de-placa-de-circuito-de.jpg?s=1024x1024&w=is&k=20&c=Dc8gIeOIbxhFoewecOvpstRXYucc05hhqsIZdF3yMKg=",
+        url: "https://www.mecamex.net/revistas/LMEM/revistas/LMEM-V07-N03-03.pdf",
 
         parrafo1: ` Resumen
         
@@ -1327,13 +820,6 @@ export const tecnologias= [
         Bajo dichas premisas, se pueden enlistar algunos de los principales enfoques que la bibliotecología debería abordar en los procesos de enseñanza, determinados por Ríos Ortega (2006): funciones de la educación bibliotecológica; sistemas e instituciones para la formación bibliotecológica; metodología de la enseñanza bibliotecológica; métodos de evaluación del rendimiento; grados de la educación bibliotecológica; entre otros
         
         El mismo autor hace un especial énfasis en los siguientes elementos a considerar:
-
-        • Para el uso de estándares de normalización, los números de reglas no son lo más importante, sino el contenido que permite describir lainformación.
-        • La puntuación es fundamental para una descripción uniforme, sin embargo, no es la razón de ser de la normalización.
-        • El procesamiento técnico no se basa en un aprendizaje de memoria, más bien, las herramientas que se aprenden a utilizar son para consulta, interpretación y aplicación.
-        • Los estándares de normalización son una propuesta derivada del análisis, experiencia y consenso de diversos organismos, los cuales son un modelo a seguir, no una imposición con carácter de ley.
-        • Los estándares de normalización no cubren la totalidad de casos posibles en el quehacer catalográfico; por ende, ante esos casos no previstos, está el criterio del profesional en bibliotecología.
-        
         2.3 Procesamiento técnico de la información
 
         La organización de los datos y los recursos dentro de unidades de información y cualquier entidad es uno de los elementos primordiales para llevar a cabo las diferentes funciones, actividades y/o procesos y, así, cumplir con los objetivos planteados; como expone Hansson (2006, p. 32), a partir de lo dicho se posibilita que la información esté disponible y accesible al público y, con ello, satisfacer sus necesidades.
@@ -1373,10 +859,9 @@ export const tecnologias= [
 
     {
         titulo: "La gestión de programas y proyectos territoriales de ciencia e innovación en el sector de la salud pública ", 
-        subtema: "Revista e-Ciencias de la Información",
-        autor: "Tomás Moreno-de-León, Esperanza de León Arellano",
-        descripcion: "El concepto de innovación educativa en estudios de lectura no está completamente definido. En este sentido, es necesario crear consenso sobre lo que se entiende como una innovación educativa en estudios de lectura",
-        img: "https://www.tecnologia-ciencia-educacion.com/public/journals/2/cover_issue_68_es_ES.jpg",
+        autor: "MSc. Katerine Guerra Betancourt",
+        descripcion: "El desarrollo de las investigaciones que contribuyen a la generación y aplicación de nuevos conocimientos, productos y procesos que eleven la calidad del sistema de salud cubano constituye una de las prioridades del Ministerio de Salud Pública en el país. ",
+        img: "https://media.istockphoto.com/id/1160780299/es/vector/microscopio-con-l%C3%ADquido-en-tubos-de-ensayo-investigaci%C3%B3n.jpg?s=1024x1024&w=is&k=20&c=iOh5dWB0IdeYuO71mizPGJMW3QYztxxbdMj6uFMbz30=",
         url: "http://scielo.sld.cu/pdf/ics/v24n4/ics07413.pdf",
 
         parrafo1: ` Resumen 
@@ -1440,11 +925,10 @@ export const tecnologias= [
     },
 
     {
-        titulo: "Sistema de medición de riesgos en enrutadores bajo el estándar 802.11g basándose en los lineamientos planteados por la OSSTMM", 
-        subtema: "Revista e-Ciencias de la Información",
-        autor: "Ginnette Calvo Guillén",
-        descripcion: "Del 2019 al 2021 se llevó a cabo la primera fase de un proyecto de gestión de la información en la Escuela de Bibliotecología y Ciencias de la Información de la Universidad de Costa Rica, surgido como respuesta a las problemáticas identificadas en el proceso",
-        img: "https://image.isu.pub/111017184138-6c0f33d0f1474962adf8ea1d32a561d6/jpg/page_1.jpg",
+        titulo: "Sistema de medición de riesgos en enrutadores bajo el estándar 802.11g basándose en los lineamientos planteados", 
+        autor: "MSc. Katerine Guerra Betancourt",
+        descripcion: "Un incoveniente en las redes inalambricas la seguridad debido a la emision de señales es por el aire ",
+        img: "https://media.istockphoto.com/id/480708970/es/foto/m%C3%A1quina-para-sistema-rob%C3%B3tico-manejo-de-la-industria-farmac%C3%A9utica.jpg?s=1024x1024&w=is&k=20&c=bJYGcf8rCF-MI4YwxuJWSUUztcAy3PSquV3bqw8R5vY=",
         url:"https://repositorio.unal.edu.co/bitstream/handle/unal/32941/19725-106815-1-PB.pdf?sequence=1",
 
         parrafo1: `Resumen:
@@ -1560,10 +1044,9 @@ export const tecnologias= [
     },
     {
         titulo: "La minería de datos espaciales y su aplicación en los estudios de salud y epidemiología", 
-        subtema: "Revista e-Ciencias de la Información",
-        autor: "Marta de Oliveira, Maurício de Vargas Corrêa",
-        descripcion: "Busca identificar si la sobrecarga de información afecta al comportamiento informativo y provoca efectos de ansiedad informativa en estudiantes de dos universidades brasileñas en movilidad académica en el extranjero",
-        img: "https://image.isu.pub/150225163842-60882553b7f3e7cf7d25ecb50cb27ba0/jpg/page_1.jpg",
+        autor: "Ing. Liset González Polanco",
+        descripcion: "La acumulación de información espacial producto del desarrollo de los sistemas informáticos, y en especial de los sistemas de información geográfica, propicia la aplicación de técnicas de minería de datos espaciales para la extracción de nuevos conocimientos que asistan a la toma de decisiones",
+        img: "https://media.istockphoto.com/id/1248604121/es/foto/en-otros-virus-puede-ocurrir-en-el-planeta-tierra-despu%C3%A9s-de-covid-19-enfermedad-pand%C3%A9mica.jpg?s=1024x1024&w=is&k=20&c=GdmI_zyRfVL4ueFY2gl4f3tDAOEpu0X4zD42BlylYPc=",
         url:"http://scielo.sld.cu/pdf/ics/v24n4/ics10413.pdf",
 
         parrafo1: ` Resumen:

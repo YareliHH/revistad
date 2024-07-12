@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import 'bulma/css/bulma.min.css';
 import '../css/style.css';
-import { tecnologias } from '../../data';
+import { computacion } from '../../pagina';
 import { Page, Text, View, Document, Image, StyleSheet, pdf } from '@react-pdf/renderer';
 import PDFModal from '../revistas/PDFModal';
 
@@ -36,7 +36,8 @@ const styles = StyleSheet.create({
   }
 });
 
-const Tecnologias = () => {
+const Computacion = () => {
+
   const [selectedNews, setSelectedNews] = useState(null);
   const [modalOpen, setModalOpen] = useState(false);
   const [modalIsOpen, setModalIsOpen] = useState('');
@@ -52,7 +53,7 @@ const Tecnologias = () => {
     setModalIsOpen(false);
   };
 
-  const news = tecnologias;
+  const news = computacion;
 
   const MyDocument = () => (
     <Document>
@@ -113,7 +114,7 @@ const Tecnologias = () => {
             transition={{ duration: 1 }}
           >
             <h1 className="title has-text-white" style={{ fontSize: '3rem', fontWeight: 'bold' }}>
-            Tecnologia
+             Revistas de computacion
             </h1>
             <div className="columns is-multiline is-centered">
               {news && news.map((article, index) => (
@@ -137,4 +138,4 @@ const Tecnologias = () => {
   );
 };
 
-export default Tecnologias;
+export default Computacion;

@@ -5,7 +5,7 @@ function PDFModal({ isOpen, onClose, pdfUrl }) {
     <Modal isOpen={isOpen} onRequestClose={onClose} contentLabel="PDF Modal">
       <iframe
         title="PDF Viewer"
-        style={{ width: "100%", height: "100%",padding:50}}
+        style={{ width: "100%", height: "100%",padding:10}}
         src={pdfUrl}
       />
     </Modal>

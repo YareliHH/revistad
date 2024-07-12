@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import 'bulma/css/bulma.css';
 import Logo from '../Imagenes/CapLogo.png';
@@ -33,14 +33,30 @@ const Navbar = () => {
           </Link>
           <div className="navbar-item has-dropdown is-hoverable">
             <Link className="navbar-link" to="#" style={{ color: 'black' }}>
-              Categorías
+              Coleccion
             </Link>
             <div className="navbar-dropdown is-boxed" style={{ backgroundColor: 'white' }}>
-              <Link className="navbar-item" to="/categoria/tecnologia" style={{ color: 'black',backgroundColor: 'white' }}>
-                Tecnologia
+              <Link className="navbar-item" to="/categoria/tecnologia" style={{ color: 'black', backgroundColor: 'white' }}>
+                Tecnología
               </Link>
               <Link className="navbar-item" to="/categoria/noticias" style={{ color: 'black', backgroundColor: 'white' }}>
                 Noticias
+              </Link>
+            </div>
+          </div>
+          <div className="navbar-item has-dropdown is-hoverable">
+            <Link className="navbar-link" to="#" style={{ color: 'black' }}>
+              Categorías 
+            </Link>
+            <div className="navbar-dropdown is-boxed" style={{ backgroundColor: 'white' }}>
+              <Link className="navbar-item" to="/categoria/ciencia" style={{ color: 'black', backgroundColor: 'white' }}>
+                Ciencia (CBS)
+              </Link>
+              <Link className="navbar-item" to="/categoria/ingenieria" style={{ color: 'black', backgroundColor: 'white' }}>
+                Ciencia (CI)
+              </Link>
+              <Link className="navbar-item" to="/categoria/computacion" style={{ color: 'black', backgroundColor: 'white' }}>
+               Ciencia (CCCEF) 
               </Link>
             </div>
           </div>

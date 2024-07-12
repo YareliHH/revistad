@@ -119,7 +119,7 @@ const Revistas = () => {
             <div className="columns is-multiline is-centered">
               {news && news.map((article, index) => (
                 <div key={index} className="column is-one-third">
-                  <div className="card" style={cardStyle} onClick={() => openModal(article.parrafo4)}>
+                  <div className="card" style={cardStyle} onClick={() => openModal(article.url)}>
                     <img
                       src={article.img || defaultImage}
                       alt={article.titulo}
