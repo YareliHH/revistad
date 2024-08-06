@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import LayoutConEncabezado from './componentes/compartidos/layout';
+import LayoutConEncabezado from './componentes/publico/layout';
 import Welcome from './componentes/publico/bienvenida';
 import Revistas from './componentes/revistas/revistas';
 import RevistaCompleta from './componentes/revistas/revistacompleta';
 import Colecciones from './componentes/colecciones/colecciones';
-import Component from './componentes/compartidos/AcercaDe';
+import Component from './componentes/publico/AcercaDe';
 import Noticias from './componentes/compartidos/noticias'
 import Tecnologias from './componentes/compartidos/tecnologias';
 import Ciencia from './componentes/compartidos/ciencia';

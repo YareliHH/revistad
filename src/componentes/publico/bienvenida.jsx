@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import 'bulma/css/bulma.min.css';
 import '../css/style.css';
-import { articulos } from '../../data';
+import { articulos } from '../../datos/data';
 import { Page, Text, View, Document, Image, StyleSheet, pdf } from '@react-pdf/renderer';
 import PDFModal from '../revistas/PDFModal';
 
@@ -38,19 +38,18 @@ const styles = StyleSheet.create({
 
 const Welcome = () => {
   const [selectedNews, setSelectedNews] = useState(null);
-  const [modalOpen, setModalOpen] = useState(false);
-  const [modalIsOpen, setModalIsOpen] = useState('');
+  const [modalIsOpen, setModalIsOpen] = useState(false);  // Inicializa como booleano
   const [pdfUrl, setPdfUrl] = useState('');
 
   const openModal = (url) => {
     setPdfUrl(url);
-    setModalIsOpen(true);
+    setModalIsOpen(true);  // Asegúrate de que sea booleano
   };
 
   const closeModal = () => {
     setPdfUrl('');
-    setModalIsOpen(false);
-  };
+    setModalIsOpen(false);  // Asegúrate de que sea booleano
+  };
 
   const news = articulos;
 

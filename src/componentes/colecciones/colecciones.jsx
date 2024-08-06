@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import '../compartidos/Estilos/revistas.css';
+import '../css/revistas.css';
 
 const Colecciones = () => {
   const [categorias, setCategorias] = useState([]);

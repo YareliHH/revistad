@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import 'bulma/css/bulma.min.css';
 import '../css/style.css';
 import img from '../Imagenes/Noticias.jpg';
+import { TailSpin } from 'react-loader-spinner';
 
 // URL de la imagen estática a mostrar cuando una noticia no tiene imagen
 const defaultImage = img;
@@ -23,6 +24,7 @@ const Noticias = () => {
     const [news, setNews] = useState([]);
     const [selectedNews, setSelectedNews] = useState(null);
     const [modalOpen, setModalOpen] = useState(false);
+    const [loading, setLoading] = useState(true); // Estado de carga
 
     useEffect(() => {
         const apiKey = '751301d9fc9b40e3b217f3f024092d93';
@@ -43,9 +45,11 @@ const Noticias = () => {
                     }
                 }));
                 setNews(translatedArticles);
+                setLoading(false); // Termina la carga
             })
             .catch(error => {
                 console.error('Error al obtener las noticias:', error);
+                setLoading(false); // Termina la carga incluso si hay un error
             });
     }, []);
 
@@ -117,33 +121,39 @@ const Noticias = () => {
         <section className="hero" style={{ backgroundColor: '#000000', padding: '40px 0', minHeight: '80vh' }}>
             <div className="hero-body">
                 <div className="container has-text-centered">
-                    <motion.div
-                        initial={{ opacity: 0, y: 50 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 1 }}
-                    >
-                        <h1 className="title has-text-white" style={{ fontSize: '3rem', fontWeight: 'bold' }}>
-                            Noticias
-                        </h1>
-                        <div className="columns is-multiline is-centered is-vcentered">
-                            {news && news.map((article, index) => (
-                                <div key={index} className="column is-one-third" onClick={() => openModal(article)}>
-                                    <div className="card" style={cardStyle}>
-                                        <div style={imageContainerStyle}>
-                                            <div style={imageOverlayStyle}></div>
-                                            <motion.img
-                                                src={article.urlToImage || defaultImage}
-                                                alt={article.title}
-                                                style={imageStyle}
-                                                whileHover={{ scale: 1.05 }}
-                                            />
-                                        </div>
-                                        <h3 style={{ marginTop: '15px', fontSize: '1.2rem', zIndex: 2 }}>{article.title}</h3>
-                                    </div>
-                                </div>
-                            ))}
+                    {loading ? (
+                        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
+                            <TailSpin color="#00BFFF" height={80} width={80} />
                         </div>
-                    </motion.div>
+                    ) : (
+                        <motion.div
+                            initial={{ opacity: 0, y: 50 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 1 }}
+                        >
+                            <h1 className="title has-text-white" style={{ fontSize: '3rem', fontWeight: 'bold' }}>
+                                Noticias
+                            </h1>
+                            <div className="columns is-multiline is-centered is-vcentered">
+                                {news && news.map((article, index) => (
+                                    <div key={index} className="column is-one-third" onClick={() => openModal(article)}>
+                                        <div className="card" style={cardStyle}>
+                                            <div style={imageContainerStyle}>
+                                                <div style={imageOverlayStyle}></div>
+                                                <motion.img
+                                                    src={article.urlToImage || defaultImage}
+                                                    alt={article.title}
+                                                    style={imageStyle}
+                                                    whileHover={{ scale: 1.05 }}
+                                                />
+                                            </div>
+                                            <h3 style={{ marginTop: '15px', fontSize: '1.2rem', zIndex: 2 }}>{article.title}</h3>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </motion.div>
+                    )}
                 </div>
             </div>
             {modalOpen && selectedNews && (

@@ -2,9 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import 'bulma/css/bulma.min.css';
 import '../css/style.css';
-import { computacion } from '../../pagina';
 import { Page, Text, View, Document, Image, StyleSheet, pdf } from '@react-pdf/renderer';
 import PDFModal from '../revistas/PDFModal';
+import axios from 'axios';
+import { TailSpin } from 'react-loader-spinner';
 
 const defaultImage = 'https://via.placeholder.com/150';
 
@@ -37,11 +38,26 @@ const styles = StyleSheet.create({
 });
 
 const Computacion = () => {
-
+  const [news, setNews] = useState([]);
   const [selectedNews, setSelectedNews] = useState(null);
-  const [modalOpen, setModalOpen] = useState(false);
-  const [modalIsOpen, setModalIsOpen] = useState('');
+  const [modalIsOpen, setModalIsOpen] = useState(false);
   const [pdfUrl, setPdfUrl] = useState('');
+  const [loading, setLoading] = useState(true); // Estado de carga
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await axios.get(`https://revistadigital.onrender.com/api/computacion`);
+        setNews(response.data);
+        setLoading(false); // Termina la carga cuando los datos se han obtenido
+      } catch (error) {
+        console.error('Error fetching data:', error);
+        setLoading(false); // Termina la carga incluso si hay un error
+      }
+    };
+
+    fetchData();
+  }, []);
 
   const openModal = (url) => {
     setPdfUrl(url);
@@ -51,11 +67,9 @@ const Computacion = () => {
   const closeModal = () => {
     setPdfUrl('');
     setModalIsOpen(false);
-  };
+  };
 
-  const news = computacion;
-
-  const MyDocument = () => (
+  const MyDocument = ({ news }) => (
     <Document>
       <Page size="A4" style={styles.page}>
         <Text style={styles.title}>{news?.titulo}</Text>
@@ -108,30 +122,36 @@ const Computacion = () => {
     <section className="hero" style={{ backgroundColor: '#000000', padding: '10px 0', minHeight: '70vh' }}>
       <div className="hero-body">
         <div className="container has-text-centered">
-          <motion.div
-            initial={{ opacity: 0, y: 50 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1 }}
-          >
-            <h1 className="title has-text-white" style={{ fontSize: '3rem', fontWeight: 'bold' }}>
-             Revistas de computacion
-            </h1>
-            <div className="columns is-multiline is-centered">
-              {news && news.map((article, index) => (
-                <div key={index} className="column is-one-third">
-                  <div className="card" style={cardStyle} onClick={() => openModal(article.url)}>
-                    <img
-                      src={article.img || defaultImage}
-                      alt={article.titulo}
-                      style={imageStyle}
-                    />
-                    <h3 style={{ marginTop: '15px', fontSize: '1.2rem' }}>{article.titulo}</h3>
-                    <PDFModal isOpen={modalIsOpen} onClose={closeModal} pdfUrl={pdfUrl}/>
-                  </div>
-                </div>
-              ))}
+          {loading ? (
+            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
+              <TailSpin color="#00BFFF" height={80} width={80} />
             </div>
-          </motion.div>
+          ) : (
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 1 }}
+            >
+              <h1 className="title has-text-white" style={{ fontSize: '3rem', fontWeight: 'bold' }}>
+                Articulos de Computación
+              </h1>
+              <div className="columns is-multiline is-centered">
+                {news && news.map((article, index) => (
+                  <div key={index} className="column is-one-third">
+                    <div className="card" style={cardStyle} onClick={() => openModal(article.url)}>
+                      <img
+                        src={article.img || defaultImage}
+                        alt={article.titulo}
+                        style={imageStyle}
+                      />
+                      <h3 style={{ marginTop: '15px', fontSize: '1.2rem' }}>{article.titulo}</h3>
+                      <PDFModal isOpen={modalIsOpen} onClose={closeModal} pdfUrl={pdfUrl}/>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </motion.div>
+          )}
         </div>
       </div>
     </section>
