@@ -49,14 +49,15 @@ const Navbar = () => {
               <Link className="navbar-item" to="/categoria/tecnologia">
                 Tecnología
               </Link>
-              <Link className="navbar-item" to="/categoria/noticias">
-                Noticias
+              <Link className="navbar-item" to="/revistas">
+                Revistas
               </Link>
+              {/* <Link className="navbar-item" to="/categoria/noticias">
+                Noticias
+              </Link> */}
             </div>
           </div>
-          <Link className="navbar-item" to="/revistas" style={{ color: 'black' }}>
-            Revistas
-          </Link>
+         
           <Link className="navbar-item" to="/about" style={{ color: 'black' }}>
             Acerca de
           </Link>
